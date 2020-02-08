@@ -1,0 +1,3081 @@
+[
+{
+"model": "messiah_api.Menu",
+
+"pk":1,
+
+"fields": {
+
+"menuID": 1,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F1",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":2,
+
+"fields": {
+
+"menuID": 2,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F2",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":3,
+
+"fields": {
+
+"menuID": 3,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F3",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":4,
+
+"fields": {
+
+"menuID": 4,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F4",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":5,
+
+"fields": {
+
+"menuID": 5,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F5",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":6,
+
+"fields": {
+
+"menuID": 6,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F6",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":7,
+
+"fields": {
+
+"menuID": 7,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F7",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":8,
+
+"fields": {
+
+"menuID": 8,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F8",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":9,
+
+"fields": {
+
+"menuID": 9,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F9",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":10,
+
+"fields": {
+
+"menuID": 10,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F10",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":11,
+
+"fields": {
+
+"menuID": 11,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F11",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":12,
+
+"fields": {
+
+"menuID": 12,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F12",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":13,
+
+"fields": {
+
+"menuID": 13,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F13",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":14,
+
+"fields": {
+
+"menuID": 14,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F14",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":15,
+
+"fields": {
+
+"menuID": 15,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F15",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":16,
+
+"fields": {
+
+"menuID": 16,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F16",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":17,
+
+"fields": {
+
+"menuID": 17,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F17",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":18,
+
+"fields": {
+
+"menuID": 18,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F18",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":19,
+
+"fields": {
+
+"menuID": 19,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F19",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":20,
+
+"fields": {
+
+"menuID": 20,
+
+"messID": 1,
+
+"day":"sun",
+
+"nameOfFood":"F20",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":21,
+
+"fields": {
+
+"menuID": 21,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F21",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":22,
+
+"fields": {
+
+"menuID": 22,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F22",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":23,
+
+"fields": {
+
+"menuID": 23,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F23",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":24,
+
+"fields": {
+
+"menuID": 24,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F24",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":25,
+
+"fields": {
+
+"menuID": 25,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F25",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":26,
+
+"fields": {
+
+"menuID": 26,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F26",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":27,
+
+"fields": {
+
+"menuID": 27,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F27",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":28,
+
+"fields": {
+
+"menuID": 28,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F28",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":29,
+
+"fields": {
+
+"menuID": 29,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F29",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":30,
+
+"fields": {
+
+"menuID": 30,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F30",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":31,
+
+"fields": {
+
+"menuID": 31,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F31",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":32,
+
+"fields": {
+
+"menuID": 32,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F32",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":33,
+
+"fields": {
+
+"menuID": 33,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F33",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":34,
+
+"fields": {
+
+"menuID": 34,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F34",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":35,
+
+"fields": {
+
+"menuID": 35,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F35",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":36,
+
+"fields": {
+
+"menuID": 36,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F36",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":37,
+
+"fields": {
+
+"menuID": 37,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F37",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":38,
+
+"fields": {
+
+"menuID": 38,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F38",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":39,
+
+"fields": {
+
+"menuID": 39,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F39",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":40,
+
+"fields": {
+
+"menuID": 40,
+
+"messID": 1,
+
+"day":"fri",
+
+"nameOfFood":"F40",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":41,
+
+"fields": {
+
+"menuID": 41,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F41",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":42,
+
+"fields": {
+
+"menuID": 42,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F42",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":43,
+
+"fields": {
+
+"menuID": 43,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F43",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":44,
+
+"fields": {
+
+"menuID": 44,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F44",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":45,
+
+"fields": {
+
+"menuID": 45,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F45",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":46,
+
+"fields": {
+
+"menuID": 46,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F46",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":47,
+
+"fields": {
+
+"menuID": 47,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F47",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":48,
+
+"fields": {
+
+"menuID": 48,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F48",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":49,
+
+"fields": {
+
+"menuID": 49,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F49",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":50,
+
+"fields": {
+
+"menuID": 50,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F50",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":51,
+
+"fields": {
+
+"menuID": 51,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F51",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":52,
+
+"fields": {
+
+"menuID": 52,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F52",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":53,
+
+"fields": {
+
+"menuID": 53,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F53",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":54,
+
+"fields": {
+
+"menuID": 54,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F54",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":55,
+
+"fields": {
+
+"menuID": 55,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F55",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":56,
+
+"fields": {
+
+"menuID": 56,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F56",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":57,
+
+"fields": {
+
+"menuID": 57,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F57",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":58,
+
+"fields": {
+
+"menuID": 58,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F58",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":59,
+
+"fields": {
+
+"menuID": 59,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F59",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":60,
+
+"fields": {
+
+"menuID": 60,
+
+"messID": 1,
+
+"day":"mon",
+
+"nameOfFood":"F60",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":61,
+
+"fields": {
+
+"menuID": 61,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F61",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":62,
+
+"fields": {
+
+"menuID": 62,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F62",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":63,
+
+"fields": {
+
+"menuID": 63,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F63",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":64,
+
+"fields": {
+
+"menuID": 64,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F64",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":65,
+
+"fields": {
+
+"menuID": 65,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F65",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":66,
+
+"fields": {
+
+"menuID": 66,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F66",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":67,
+
+"fields": {
+
+"menuID": 67,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F67",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":68,
+
+"fields": {
+
+"menuID": 68,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F68",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":69,
+
+"fields": {
+
+"menuID": 69,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F69",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":70,
+
+"fields": {
+
+"menuID": 70,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F70",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":71,
+
+"fields": {
+
+"menuID": 71,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F71",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":72,
+
+"fields": {
+
+"menuID": 72,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F72",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":73,
+
+"fields": {
+
+"menuID": 73,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F73",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":74,
+
+"fields": {
+
+"menuID": 74,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F74",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":75,
+
+"fields": {
+
+"menuID": 75,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F75",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":76,
+
+"fields": {
+
+"menuID": 76,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F76",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":77,
+
+"fields": {
+
+"menuID": 77,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F77",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":78,
+
+"fields": {
+
+"menuID": 78,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F78",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":79,
+
+"fields": {
+
+"menuID": 79,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F79",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":80,
+
+"fields": {
+
+"menuID": 80,
+
+"messID": 1,
+
+"day":"thu",
+
+"nameOfFood":"F80",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":81,
+
+"fields": {
+
+"menuID": 81,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F81",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":82,
+
+"fields": {
+
+"menuID": 82,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F82",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":83,
+
+"fields": {
+
+"menuID": 83,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F83",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":84,
+
+"fields": {
+
+"menuID": 84,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F84",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":85,
+
+"fields": {
+
+"menuID": 85,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F85",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":86,
+
+"fields": {
+
+"menuID": 86,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F86",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":87,
+
+"fields": {
+
+"menuID": 87,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F87",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":88,
+
+"fields": {
+
+"menuID": 88,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F88",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":89,
+
+"fields": {
+
+"menuID": 89,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F89",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":90,
+
+"fields": {
+
+"menuID": 90,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F90",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":91,
+
+"fields": {
+
+"menuID": 91,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F91",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":92,
+
+"fields": {
+
+"menuID": 92,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F92",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":93,
+
+"fields": {
+
+"menuID": 93,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F93",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":94,
+
+"fields": {
+
+"menuID": 94,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F94",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":95,
+
+"fields": {
+
+"menuID": 95,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F95",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":96,
+
+"fields": {
+
+"menuID": 96,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F96",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":97,
+
+"fields": {
+
+"menuID": 97,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F97",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":98,
+
+"fields": {
+
+"menuID": 98,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F98",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":99,
+
+"fields": {
+
+"menuID": 99,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F99",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":100,
+
+"fields": {
+
+"menuID": 100,
+
+"messID": 1,
+
+"day":"wed",
+
+"nameOfFood":"F100",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":101,
+
+"fields": {
+
+"menuID": 101,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F101",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":102,
+
+"fields": {
+
+"menuID": 102,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F102",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":103,
+
+"fields": {
+
+"menuID": 103,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F103",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":104,
+
+"fields": {
+
+"menuID": 104,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F104",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":105,
+
+"fields": {
+
+"menuID": 105,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F105",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":106,
+
+"fields": {
+
+"menuID": 106,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F106",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":107,
+
+"fields": {
+
+"menuID": 107,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F107",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":108,
+
+"fields": {
+
+"menuID": 108,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F108",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":109,
+
+"fields": {
+
+"menuID": 109,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F109",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":110,
+
+"fields": {
+
+"menuID": 110,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F110",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":111,
+
+"fields": {
+
+"menuID": 111,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F111",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":112,
+
+"fields": {
+
+"menuID": 112,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F112",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":113,
+
+"fields": {
+
+"menuID": 113,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F113",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":114,
+
+"fields": {
+
+"menuID": 114,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F114",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":115,
+
+"fields": {
+
+"menuID": 115,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F115",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":116,
+
+"fields": {
+
+"menuID": 116,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F116",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":117,
+
+"fields": {
+
+"menuID": 117,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F117",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":118,
+
+"fields": {
+
+"menuID": 118,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F118",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":119,
+
+"fields": {
+
+"menuID": 119,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F119",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":120,
+
+"fields": {
+
+"menuID": 120,
+
+"messID": 1,
+
+"day":"tue",
+
+"nameOfFood":"F120",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":121,
+
+"fields": {
+
+"menuID": 121,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F121",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":122,
+
+"fields": {
+
+"menuID": 122,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F122",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":123,
+
+"fields": {
+
+"menuID": 123,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F123",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":124,
+
+"fields": {
+
+"menuID": 124,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F124",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":125,
+
+"fields": {
+
+"menuID": 125,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F125",
+
+"mealType":"breakfast"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":126,
+
+"fields": {
+
+"menuID": 126,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F126",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":127,
+
+"fields": {
+
+"menuID": 127,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F127",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":128,
+
+"fields": {
+
+"menuID": 128,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F128",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":129,
+
+"fields": {
+
+"menuID": 129,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F129",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":130,
+
+"fields": {
+
+"menuID": 130,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F130",
+
+"mealType":"dinner"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":131,
+
+"fields": {
+
+"menuID": 131,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F131",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":132,
+
+"fields": {
+
+"menuID": 132,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F132",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":133,
+
+"fields": {
+
+"menuID": 133,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F133",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":134,
+
+"fields": {
+
+"menuID": 134,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F134",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":135,
+
+"fields": {
+
+"menuID": 135,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F135",
+
+"mealType":"snacks"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":136,
+
+"fields": {
+
+"menuID": 136,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F136",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":137,
+
+"fields": {
+
+"menuID": 137,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F137",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":138,
+
+"fields": {
+
+"menuID": 138,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F138",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":139,
+
+"fields": {
+
+"menuID": 139,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F139",
+
+"mealType":"lunch"
+
+}
+
+}
+,
+{
+
+"model": "messiah_api.Menu",
+
+"pk":140,
+
+"fields": {
+
+"menuID": 140,
+
+"messID": 1,
+
+"day":"sat",
+
+"nameOfFood":"F140",
+
+"mealType":"lunch"
+
+}
+
+}
+
+]

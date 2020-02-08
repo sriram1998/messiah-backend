@@ -3,7 +3,9 @@ from django.conf.urls import url
 from django.views.generic import RedirectView
 
 #from .views import user
-from .views import user
+from .views import user,caterer
 urlpatterns = [
     url('user/login', user.LoginFormView.as_view()),
+    url('caterer/login', caterer.LoginFormView.as_view()),
+    url('user/menu', user.MenuView.as_view()),
 ]

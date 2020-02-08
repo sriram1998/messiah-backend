@@ -20,7 +20,6 @@ class Student(models.Model):
 class Menu(models.Model):
     menuID = models.AutoField(primary_key=True)
     messID = models.ForeignKey(Messes, on_delete=models.CASCADE)
-    date = models.DateField()
     day = models.CharField(max_length=10)
     nameOfFood = models.CharField(max_length=15)
     mealType = models.CharField(max_length=15)

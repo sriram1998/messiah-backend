@@ -3,8 +3,9 @@
 "pk":1,
 "fields": {
 "studentID": 1,
-"name": jdgafoikqq,
+"name": jnnurgayff,
 "rollNo":"1",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -13,8 +14,9 @@
 "pk":2,
 "fields": {
 "studentID": 2,
-"name": ajhedwwiza,
+"name": jemjfpiybg,
 "rollNo":"2",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -23,8 +25,9 @@
 "pk":3,
 "fields": {
 "studentID": 3,
-"name": xqkhixaltc,
+"name": puxnvduaas,
 "rollNo":"3",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -33,9 +36,10 @@
 "pk":4,
 "fields": {
 "studentID": 4,
-"name": gqbrmbpwtu,
+"name": frttlfyvpf,
 "rollNo":"4",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -43,9 +47,10 @@
 "pk":5,
 "fields": {
 "studentID": 5,
-"name": pfjybxemkw,
+"name": kweuueqypa,
 "rollNo":"5",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -53,9 +58,10 @@
 "pk":6,
 "fields": {
 "studentID": 6,
-"name": myfdmbeznp,
+"name": tlqljlpwne,
 "rollNo":"6",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -63,8 +69,9 @@
 "pk":7,
 "fields": {
 "studentID": 7,
-"name": frpixdndkx,
+"name": fdfnbpahmm,
 "rollNo":"7",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -73,8 +80,9 @@
 "pk":8,
 "fields": {
 "studentID": 8,
-"name": sstaiwgusq,
+"name": attfkgupqy,
 "rollNo":"8",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -83,8 +91,9 @@
 "pk":9,
 "fields": {
 "studentID": 9,
-"name": eizllcggme,
+"name": irecuawoxx,
 "rollNo":"9",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -93,8 +102,9 @@
 "pk":10,
 "fields": {
 "studentID": 10,
-"name": yltoixphjd,
+"name": lzswdwdeus,
 "rollNo":"10",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -103,8 +113,9 @@
 "pk":11,
 "fields": {
 "studentID": 11,
-"name": vbdmedhbgk,
+"name": otajrttgnc,
 "rollNo":"11",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -113,9 +124,10 @@
 "pk":12,
 "fields": {
 "studentID": 12,
-"name": wgllkwoner,
+"name": bzfikrhppv,
 "rollNo":"12",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -123,8 +135,9 @@
 "pk":13,
 "fields": {
 "studentID": 13,
-"name": vrhqvxgjaa,
+"name": coofanmofj,
 "rollNo":"13",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -133,9 +146,10 @@
 "pk":14,
 "fields": {
 "studentID": 14,
-"name": dlnqdcholz,
+"name": afbutptbwt,
 "rollNo":"14",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -143,8 +157,9 @@
 "pk":15,
 "fields": {
 "studentID": 15,
-"name": hlsmvjsuft,
+"name": mrmtkzrpoo,
 "rollNo":"15",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -153,9 +168,10 @@
 "pk":16,
 "fields": {
 "studentID": 16,
-"name": vjwzdgbpcn,
+"name": sggeeewaec,
 "rollNo":"16",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -163,8 +179,9 @@
 "pk":17,
 "fields": {
 "studentID": 17,
-"name": rnbmykanpj,
+"name": jlyxegvfbw,
 "rollNo":"17",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -173,9 +190,10 @@
 "pk":18,
 "fields": {
 "studentID": 18,
-"name": lvrhzzmmyv,
+"name": dccjvhepro,
 "rollNo":"18",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -183,8 +201,9 @@
 "pk":19,
 "fields": {
 "studentID": 19,
-"name": ktkaxyheai,
+"name": arlocpdzkz,
 "rollNo":"19",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -193,8 +212,9 @@
 "pk":20,
 "fields": {
 "studentID": 20,
-"name": bzzmjktcre,
+"name": rflonyslop,
 "rollNo":"20",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -203,8 +223,9 @@
 "pk":21,
 "fields": {
 "studentID": 21,
-"name": oxwtxywpnz,
+"name": uofpvpygaq,
 "rollNo":"21",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -213,9 +234,10 @@
 "pk":22,
 "fields": {
 "studentID": 22,
-"name": nwprudfasw,
+"name": ytgbhndzcu,
 "rollNo":"22",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -223,9 +245,10 @@
 "pk":23,
 "fields": {
 "studentID": 23,
-"name": ikotyvtkpg,
+"name": ajtdopvawn,
 "rollNo":"23",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -233,8 +256,9 @@
 "pk":24,
 "fields": {
 "studentID": 24,
-"name": qruwjnnhal,
+"name": vagaeardzr,
 "rollNo":"24",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -243,8 +267,9 @@
 "pk":25,
 "fields": {
 "studentID": 25,
-"name": nlatncecmx,
+"name": hthiptdgkd,
 "rollNo":"25",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -253,9 +278,10 @@
 "pk":26,
 "fields": {
 "studentID": 26,
-"name": ymesuvypgu,
+"name": avvnlnjpka,
 "rollNo":"26",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -263,9 +289,10 @@
 "pk":27,
 "fields": {
 "studentID": 27,
-"name": jpivpwdfli,
+"name": mdavwzkxhj,
 "rollNo":"27",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -273,9 +300,10 @@
 "pk":28,
 "fields": {
 "studentID": 28,
-"name": qtszuaaibj,
+"name": dqiuhozqww,
 "rollNo":"28",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -283,8 +311,9 @@
 "pk":29,
 "fields": {
 "studentID": 29,
-"name": msvjxuxijo,
+"name": mxvwzwmxqm,
 "rollNo":"29",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -293,9 +322,10 @@
 "pk":30,
 "fields": {
 "studentID": 30,
-"name": brljlmvkji,
+"name": fcyywrxhar,
 "rollNo":"30",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -303,8 +333,9 @@
 "pk":31,
 "fields": {
 "studentID": 31,
-"name": ypwdnkcjzm,
+"name": cgpjfuklzk,
 "rollNo":"31",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -313,9 +344,10 @@
 "pk":32,
 "fields": {
 "studentID": 32,
-"name": pehijjfswc,
+"name": kywwcytvag,
 "rollNo":"32",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -323,9 +355,10 @@
 "pk":33,
 "fields": {
 "studentID": 33,
-"name": kqqbiikirq,
+"name": qapqmsbbdi,
 "rollNo":"33",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -333,9 +366,10 @@
 "pk":34,
 "fields": {
 "studentID": 34,
-"name": lszdcpyzxw,
+"name": kirapufumv,
 "rollNo":"34",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -343,9 +377,10 @@
 "pk":35,
 "fields": {
 "studentID": 35,
-"name": fmikducszo,
+"name": rewqaioxqv,
 "rollNo":"35",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -353,9 +388,10 @@
 "pk":36,
 "fields": {
 "studentID": 36,
-"name": vpwowvufyr,
+"name": xxbvejzjrc,
 "rollNo":"36",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -363,8 +399,9 @@
 "pk":37,
 "fields": {
 "studentID": 37,
-"name": ezmwudcidr,
+"name": pqewwpzxvl,
 "rollNo":"37",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -373,8 +410,9 @@
 "pk":38,
 "fields": {
 "studentID": 38,
-"name": qtozhjfjwo,
+"name": xflpdhevkx,
 "rollNo":"38",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -383,9 +421,10 @@
 "pk":39,
 "fields": {
 "studentID": 39,
-"name": offbsvjfqx,
+"name": juoyfchwmu,
 "rollNo":"39",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -393,8 +432,9 @@
 "pk":40,
 "fields": {
 "studentID": 40,
-"name": kdhfcwzoiw,
+"name": cuaaudvdye,
 "rollNo":"40",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -403,9 +443,10 @@
 "pk":41,
 "fields": {
 "studentID": 41,
-"name": rsqghunqjc,
+"name": uwhxebqayw,
 "rollNo":"41",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -413,9 +454,10 @@
 "pk":42,
 "fields": {
 "studentID": 42,
-"name": uvgfpuhzlj,
+"name": qkyoscusmq,
 "rollNo":"42",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -423,9 +465,10 @@
 "pk":43,
 "fields": {
 "studentID": 43,
-"name": egeeryvqnp,
+"name": fqhpsvsdmx,
 "rollNo":"43",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -433,8 +476,9 @@
 "pk":44,
 "fields": {
 "studentID": 44,
-"name": gbhbnoglii,
+"name": vlxxylzyts,
 "rollNo":"44",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -443,9 +487,10 @@
 "pk":45,
 "fields": {
 "studentID": 45,
-"name": byfugtsawb,
+"name": lxidzaxwqw,
 "rollNo":"45",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -453,8 +498,9 @@
 "pk":46,
 "fields": {
 "studentID": 46,
-"name": fwiwrzbbcw,
+"name": qsvucnguha,
 "rollNo":"46",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -463,8 +509,9 @@
 "pk":47,
 "fields": {
 "studentID": 47,
-"name": lizoaiipka,
+"name": tcmwafvbzl,
 "rollNo":"47",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -473,8 +520,9 @@
 "pk":48,
 "fields": {
 "studentID": 48,
-"name": gwnkipvusb,
+"name": tjosdeeqxp,
 "rollNo":"48",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -483,8 +531,9 @@
 "pk":49,
 "fields": {
 "studentID": 49,
-"name": hcgyboemib,
+"name": fwzerruijh,
 "rollNo":"49",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -493,8 +542,9 @@
 "pk":50,
 "fields": {
 "studentID": 50,
-"name": awbdqzuaal,
+"name": eureyvzpxi,
 "rollNo":"50",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -503,8 +553,9 @@
 "pk":51,
 "fields": {
 "studentID": 51,
-"name": bxqcvvayvp,
+"name": paelxaqxxy,
 "rollNo":"51",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -513,9 +564,10 @@
 "pk":52,
 "fields": {
 "studentID": 52,
-"name": elnmvnstgb,
+"name": kqnncpixtn,
 "rollNo":"52",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -523,9 +575,10 @@
 "pk":53,
 "fields": {
 "studentID": 53,
-"name": npxfumvyix,
+"name": amnpqjkyen,
 "rollNo":"53",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -533,8 +586,9 @@
 "pk":54,
 "fields": {
 "studentID": 54,
-"name": imdqfgfqyx,
+"name": kobenuarus,
 "rollNo":"54",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -543,8 +597,9 @@
 "pk":55,
 "fields": {
 "studentID": 55,
-"name": bcglekclef,
+"name": wgsdoyzdem,
 "rollNo":"55",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -553,8 +608,9 @@
 "pk":56,
 "fields": {
 "studentID": 56,
-"name": gibqkoxtsu,
+"name": vryqoracyo,
 "rollNo":"56",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -563,9 +619,10 @@
 "pk":57,
 "fields": {
 "studentID": 57,
-"name": eketvuidfb,
+"name": qygxivuhwf,
 "rollNo":"57",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -573,8 +630,9 @@
 "pk":58,
 "fields": {
 "studentID": 58,
-"name": jwsceeabhf,
+"name": rzbbjuoftu,
 "rollNo":"58",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -583,9 +641,10 @@
 "pk":59,
 "fields": {
 "studentID": 59,
-"name": yrwtvrmkuj,
+"name": phpzdudhuw,
 "rollNo":"59",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -593,9 +652,10 @@
 "pk":60,
 "fields": {
 "studentID": 60,
-"name": ceuhelfufq,
+"name": abldakvtxp,
 "rollNo":"60",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -603,8 +663,9 @@
 "pk":61,
 "fields": {
 "studentID": 61,
-"name": myzhgqmhun,
+"name": qyicuydpbn,
 "rollNo":"61",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -613,9 +674,10 @@
 "pk":62,
 "fields": {
 "studentID": 62,
-"name": quhdpkqjcg,
+"name": rzvmrpeuxw,
 "rollNo":"62",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -623,9 +685,10 @@
 "pk":63,
 "fields": {
 "studentID": 63,
-"name": pkmvhdhoik,
+"name": gifqjxdjqp,
 "rollNo":"63",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -633,8 +696,9 @@
 "pk":64,
 "fields": {
 "studentID": 64,
-"name": gueongydqx,
+"name": jfdiukruem,
 "rollNo":"64",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -643,9 +707,10 @@
 "pk":65,
 "fields": {
 "studentID": 65,
-"name": yvvnososze,
+"name": ienjlsoczg,
 "rollNo":"65",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -653,9 +718,10 @@
 "pk":66,
 "fields": {
 "studentID": 66,
-"name": nhbhlmnxdh,
+"name": zvidkmyfum,
 "rollNo":"66",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -663,8 +729,9 @@
 "pk":67,
 "fields": {
 "studentID": 67,
-"name": aetkxbyqzb,
+"name": zlatjyjnhr,
 "rollNo":"67",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -673,9 +740,10 @@
 "pk":68,
 "fields": {
 "studentID": 68,
-"name": wopwlvifqp,
+"name": gasvzafyap,
 "rollNo":"68",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -683,9 +751,10 @@
 "pk":69,
 "fields": {
 "studentID": 69,
-"name": kqdmnamwyk,
+"name": dctmfftnfo,
 "rollNo":"69",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -693,8 +762,9 @@
 "pk":70,
 "fields": {
 "studentID": 70,
-"name": owrelborpg,
+"name": urtonxjstk,
 "rollNo":"70",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -703,8 +773,9 @@
 "pk":71,
 "fields": {
 "studentID": 71,
-"name": cxzsrgrijt,
+"name": pglaemdwdl,
 "rollNo":"71",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -713,9 +784,10 @@
 "pk":72,
 "fields": {
 "studentID": 72,
-"name": iojapogzrs,
+"name": chvveohmgs,
 "rollNo":"72",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -723,8 +795,9 @@
 "pk":73,
 "fields": {
 "studentID": 73,
-"name": alybqjeyqv,
+"name": muqsctipgn,
 "rollNo":"73",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -733,8 +806,9 @@
 "pk":74,
 "fields": {
 "studentID": 74,
-"name": ssgdxmuvld,
+"name": glyenyrfob,
 "rollNo":"74",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -743,8 +817,9 @@
 "pk":75,
 "fields": {
 "studentID": 75,
-"name": eofrrkuqdz,
+"name": pofzvkigaa,
 "rollNo":"75",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -753,8 +828,9 @@
 "pk":76,
 "fields": {
 "studentID": 76,
-"name": vzlrbshllj,
+"name": bahferheuw,
 "rollNo":"76",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -763,9 +839,10 @@
 "pk":77,
 "fields": {
 "studentID": 77,
-"name": syiayjspwn,
+"name": wjwpovylyb,
 "rollNo":"77",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -773,8 +850,9 @@
 "pk":78,
 "fields": {
 "studentID": 78,
-"name": kdeiymcsed,
+"name": nztemrdfmg,
 "rollNo":"78",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -783,9 +861,10 @@
 "pk":79,
 "fields": {
 "studentID": 79,
-"name": jjhrjckbdw,
+"name": zhydomywgd,
 "rollNo":"79",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -793,9 +872,10 @@
 "pk":80,
 "fields": {
 "studentID": 80,
-"name": hgjypidewo,
+"name": dlzyppwwka,
 "rollNo":"80",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -803,8 +883,9 @@
 "pk":81,
 "fields": {
 "studentID": 81,
-"name": bvlpuzryxk,
+"name": awjkkhowkq,
 "rollNo":"81",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -813,8 +894,9 @@
 "pk":82,
 "fields": {
 "studentID": 82,
-"name": eziqcnnvhr,
+"name": yhqphahglv,
 "rollNo":"82",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -823,8 +905,9 @@
 "pk":83,
 "fields": {
 "studentID": 83,
-"name": wprfoocapi,
+"name": mwoihiuylv,
 "rollNo":"83",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -833,9 +916,10 @@
 "pk":84,
 "fields": {
 "studentID": 84,
-"name": hlradacbjk,
+"name": ifaafcsnrg,
 "rollNo":"84",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -843,9 +927,10 @@
 "pk":85,
 "fields": {
 "studentID": 85,
-"name": yqvkfildyo,
+"name": txtqvkdhrj,
 "rollNo":"85",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -853,8 +938,9 @@
 "pk":86,
 "fields": {
 "studentID": 86,
-"name": jsvmpmqgfg,
+"name": hsyvahryww,
 "rollNo":"86",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -863,8 +949,9 @@
 "pk":87,
 "fields": {
 "studentID": 87,
-"name": gslejimcqo,
+"name": yckgpbtaue,
 "rollNo":"87",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -873,8 +960,9 @@
 "pk":88,
 "fields": {
 "studentID": 88,
-"name": fvzghrxysc,
+"name": bhdxwmkwbm,
 "rollNo":"88",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -883,8 +971,9 @@
 "pk":89,
 "fields": {
 "studentID": 89,
-"name": kxkdnknkny,
+"name": yyudtutaie,
 "rollNo":"89",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -893,9 +982,10 @@
 "pk":90,
 "fields": {
 "studentID": 90,
-"name": cfdztqmvze,
+"name": jxcdhytjmm,
 "rollNo":"90",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -903,8 +993,9 @@
 "pk":91,
 "fields": {
 "studentID": 91,
-"name": ynkyivsktp,
+"name": yvcetnbagl,
 "rollNo":"91",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -913,8 +1004,9 @@
 "pk":92,
 "fields": {
 "studentID": 92,
-"name": jxgqtrkatg,
+"name": lpjzxduvxs,
 "rollNo":"92",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -923,9 +1015,10 @@
 "pk":93,
 "fields": {
 "studentID": 93,
-"name": trjvqdcbkm,
+"name": dosnuymscw,
 "rollNo":"93",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -933,8 +1026,9 @@
 "pk":94,
 "fields": {
 "studentID": 94,
-"name": qendlgqewb,
+"name": imfycwyauv,
 "rollNo":"94",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -943,9 +1037,10 @@
 "pk":95,
 "fields": {
 "studentID": 95,
-"name": kqiqfovpun,
+"name": lfzmspzeju,
 "rollNo":"95",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -953,9 +1048,10 @@
 "pk":96,
 "fields": {
 "studentID": 96,
-"name": hnsebsiqyn,
+"name": blnxooczlk,
 "rollNo":"96",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -963,8 +1059,9 @@
 "pk":97,
 "fields": {
 "studentID": 97,
-"name": sveiboaiwv,
+"name": pupsofpvpe,
 "rollNo":"97",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -973,9 +1070,10 @@
 "pk":98,
 "fields": {
 "studentID": 98,
-"name": qyhwoslhqy,
+"name": kjeswxasfx,
 "rollNo":"98",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -983,8 +1081,9 @@
 "pk":99,
 "fields": {
 "studentID": 99,
-"name": zxriuxehaj,
+"name": ryizfganel,
 "rollNo":"99",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -993,9 +1092,10 @@
 "pk":100,
 "fields": {
 "studentID": 100,
-"name": htgryqgkdd,
+"name": wpjciygeae,
 "rollNo":"100",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1003,9 +1103,10 @@
 "pk":101,
 "fields": {
 "studentID": 101,
-"name": nobxxqqbbl,
+"name": pryoquuhqe,
 "rollNo":"101",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1013,9 +1114,10 @@
 "pk":102,
 "fields": {
 "studentID": 102,
-"name": rovbwaxwvh,
+"name": bkmugtobdv,
 "rollNo":"102",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1023,9 +1125,10 @@
 "pk":103,
 "fields": {
 "studentID": 103,
-"name": cffutciygt,
+"name": gtrsfrubep,
 "rollNo":"103",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1033,8 +1136,9 @@
 "pk":104,
 "fields": {
 "studentID": 104,
-"name": jjjnpuakhw,
+"name": gbokdmaqpt,
 "rollNo":"104",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1043,9 +1147,10 @@
 "pk":105,
 "fields": {
 "studentID": 105,
-"name": mqdvbfdpkc,
+"name": noizvrsljw,
 "rollNo":"105",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1053,8 +1158,9 @@
 "pk":106,
 "fields": {
 "studentID": 106,
-"name": jgymktetir,
+"name": eteietkybw,
 "rollNo":"106",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1063,8 +1169,9 @@
 "pk":107,
 "fields": {
 "studentID": 107,
-"name": ljgxuvsril,
+"name": vpghlioddb,
 "rollNo":"107",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1073,8 +1180,9 @@
 "pk":108,
 "fields": {
 "studentID": 108,
-"name": ejsxycyyuj,
+"name": yodlhcmnat,
 "rollNo":"108",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1083,9 +1191,10 @@
 "pk":109,
 "fields": {
 "studentID": 109,
-"name": rbptjmelat,
+"name": jrkyykytnp,
 "rollNo":"109",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1093,9 +1202,10 @@
 "pk":110,
 "fields": {
 "studentID": 110,
-"name": bnlarjbrtm,
+"name": ouuaxvlicm,
 "rollNo":"110",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1103,8 +1213,9 @@
 "pk":111,
 "fields": {
 "studentID": 111,
-"name": pmhcwfffzc,
+"name": dlwmiwxvml,
 "rollNo":"111",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1113,8 +1224,9 @@
 "pk":112,
 "fields": {
 "studentID": 112,
-"name": szpifzdmfz,
+"name": welegiirah,
 "rollNo":"112",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1123,8 +1235,9 @@
 "pk":113,
 "fields": {
 "studentID": 113,
-"name": ibmmmeahoa,
+"name": cbxrdlmugy,
 "rollNo":"113",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1133,9 +1246,10 @@
 "pk":114,
 "fields": {
 "studentID": 114,
-"name": maoqsddwtt,
+"name": pfjtzntjfj,
 "rollNo":"114",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1143,8 +1257,9 @@
 "pk":115,
 "fields": {
 "studentID": 115,
-"name": kmavibzppq,
+"name": eiqijeicxx,
 "rollNo":"115",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -1153,9 +1268,10 @@
 "pk":116,
 "fields": {
 "studentID": 116,
-"name": sagdcasrgu,
+"name": bhsghnnagn,
 "rollNo":"116",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1163,8 +1279,9 @@
 "pk":117,
 "fields": {
 "studentID": 117,
-"name": fepvxtunnu,
+"name": kdbmgcjkvx,
 "rollNo":"117",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1173,8 +1290,9 @@
 "pk":118,
 "fields": {
 "studentID": 118,
-"name": hhggueybwq,
+"name": synzelxccg,
 "rollNo":"118",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1183,9 +1301,10 @@
 "pk":119,
 "fields": {
 "studentID": 119,
-"name": wysnchrxxd,
+"name": zxgigkqiag,
 "rollNo":"119",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1193,8 +1312,9 @@
 "pk":120,
 "fields": {
 "studentID": 120,
-"name": qlrwoccogp,
+"name": sprwdjyrcj,
 "rollNo":"120",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1203,8 +1323,9 @@
 "pk":121,
 "fields": {
 "studentID": 121,
-"name": fhkqlcnxno,
+"name": jgfhckaglw,
 "rollNo":"121",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1213,9 +1334,10 @@
 "pk":122,
 "fields": {
 "studentID": 122,
-"name": bqytzklvev,
+"name": grmbygvohw,
 "rollNo":"122",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1223,9 +1345,10 @@
 "pk":123,
 "fields": {
 "studentID": 123,
-"name": seglazpngp,
+"name": bjlproiccc,
 "rollNo":"123",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1233,9 +1356,10 @@
 "pk":124,
 "fields": {
 "studentID": 124,
-"name": mowoapcrqr,
+"name": mlzjipakxn,
 "rollNo":"124",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1243,8 +1367,9 @@
 "pk":125,
 "fields": {
 "studentID": 125,
-"name": kjcjimsqwz,
+"name": fqwuxmmcsl,
 "rollNo":"125",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1253,9 +1378,10 @@
 "pk":126,
 "fields": {
 "studentID": 126,
-"name": yyoaawpkhg,
+"name": hvmtlevsrw,
 "rollNo":"126",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1263,8 +1389,9 @@
 "pk":127,
 "fields": {
 "studentID": 127,
-"name": mblvtremnz,
+"name": dehacqqkrn,
 "rollNo":"127",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1273,8 +1400,9 @@
 "pk":128,
 "fields": {
 "studentID": 128,
-"name": eaqntpxyze,
+"name": byyjxtsrar,
 "rollNo":"128",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1283,8 +1411,9 @@
 "pk":129,
 "fields": {
 "studentID": 129,
-"name": lvrtgngpfm,
+"name": lmfaqwmjqt,
 "rollNo":"129",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1293,9 +1422,10 @@
 "pk":130,
 "fields": {
 "studentID": 130,
-"name": rqthelxail,
+"name": zgwbwnehzj,
 "rollNo":"130",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1303,8 +1433,9 @@
 "pk":131,
 "fields": {
 "studentID": 131,
-"name": pbydmgwdyh,
+"name": gzlzexqqkg,
 "rollNo":"131",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1313,9 +1444,10 @@
 "pk":132,
 "fields": {
 "studentID": 132,
-"name": oirjyabpes,
+"name": pepwlubmzv,
 "rollNo":"132",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1323,8 +1455,9 @@
 "pk":133,
 "fields": {
 "studentID": 133,
-"name": nwuhubygkh,
+"name": sbfkofcsht,
 "rollNo":"133",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1333,8 +1466,9 @@
 "pk":134,
 "fields": {
 "studentID": 134,
-"name": dvkxgazewc,
+"name": rqapktcxye,
 "rollNo":"134",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1343,8 +1477,9 @@
 "pk":135,
 "fields": {
 "studentID": 135,
-"name": lxrnycwvlh,
+"name": guksqnuzad,
 "rollNo":"135",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1353,9 +1488,10 @@
 "pk":136,
 "fields": {
 "studentID": 136,
-"name": eskqbsjqyb,
+"name": fnvemvzjud,
 "rollNo":"136",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1363,9 +1499,10 @@
 "pk":137,
 "fields": {
 "studentID": 137,
-"name": puykvwconp,
+"name": vjuilapipb,
 "rollNo":"137",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1373,8 +1510,9 @@
 "pk":138,
 "fields": {
 "studentID": 138,
-"name": tjdgjehshx,
+"name": buvedcouhj,
 "rollNo":"138",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1383,8 +1521,9 @@
 "pk":139,
 "fields": {
 "studentID": 139,
-"name": kbgxevoale,
+"name": gmeqhxcujo,
 "rollNo":"139",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1393,9 +1532,10 @@
 "pk":140,
 "fields": {
 "studentID": 140,
-"name": sjypzfmyyy,
+"name": hfnljhjdrj,
 "rollNo":"140",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1403,9 +1543,10 @@
 "pk":141,
 "fields": {
 "studentID": 141,
-"name": wfoubnryce,
+"name": niyyvwtind,
 "rollNo":"141",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1413,8 +1554,9 @@
 "pk":142,
 "fields": {
 "studentID": 142,
-"name": bdrkcoclhx,
+"name": zufhimlqwn,
 "rollNo":"142",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1423,8 +1565,9 @@
 "pk":143,
 "fields": {
 "studentID": 143,
-"name": hfvppmdnll,
+"name": xbqaaeohxx,
 "rollNo":"143",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1433,9 +1576,10 @@
 "pk":144,
 "fields": {
 "studentID": 144,
-"name": zrnuzfymjc,
+"name": cnnewxzzgy,
 "rollNo":"144",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1443,8 +1587,9 @@
 "pk":145,
 "fields": {
 "studentID": 145,
-"name": rovpmdpfjx,
+"name": yzzsrgcohs,
 "rollNo":"145",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1453,8 +1598,9 @@
 "pk":146,
 "fields": {
 "studentID": 146,
-"name": otgeyalhmf,
+"name": mghsjpcggu,
 "rollNo":"146",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1463,8 +1609,9 @@
 "pk":147,
 "fields": {
 "studentID": 147,
-"name": wkaloqpjgl,
+"name": shztultvvt,
 "rollNo":"147",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1473,8 +1620,9 @@
 "pk":148,
 "fields": {
 "studentID": 148,
-"name": vvjgijgetr,
+"name": gzbzizmhyj,
 "rollNo":"148",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1483,8 +1631,9 @@
 "pk":149,
 "fields": {
 "studentID": 149,
-"name": zhbteubldq,
+"name": lwjvdhktsc,
 "rollNo":"149",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1493,9 +1642,10 @@
 "pk":150,
 "fields": {
 "studentID": 150,
-"name": ssdrrxqiov,
+"name": bvcrvubmuv,
 "rollNo":"150",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1503,8 +1653,9 @@
 "pk":151,
 "fields": {
 "studentID": 151,
-"name": vacpjrgtue,
+"name": whljtgsqro,
 "rollNo":"151",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1513,8 +1664,9 @@
 "pk":152,
 "fields": {
 "studentID": 152,
-"name": xzbbhzeraf,
+"name": ahqlrjozgy,
 "rollNo":"152",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -1523,9 +1675,10 @@
 "pk":153,
 "fields": {
 "studentID": 153,
-"name": zjoizbyvhq,
+"name": joyszdwvrx,
 "rollNo":"153",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1533,9 +1686,10 @@
 "pk":154,
 "fields": {
 "studentID": 154,
-"name": ouvhmzabdp,
+"name": luonuwqjkp,
 "rollNo":"154",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1543,8 +1697,9 @@
 "pk":155,
 "fields": {
 "studentID": 155,
-"name": pujwjcstju,
+"name": fgxubaedxl,
 "rollNo":"155",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1553,8 +1708,9 @@
 "pk":156,
 "fields": {
 "studentID": 156,
-"name": lrmgbsbhkp,
+"name": hpmwctlsxw,
 "rollNo":"156",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1563,8 +1719,9 @@
 "pk":157,
 "fields": {
 "studentID": 157,
-"name": bqkbuyxufj,
+"name": vnxapwvprg,
 "rollNo":"157",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1573,8 +1730,9 @@
 "pk":158,
 "fields": {
 "studentID": 158,
-"name": qtcthangke,
+"name": nggfymwewf,
 "rollNo":"158",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1583,9 +1741,10 @@
 "pk":159,
 "fields": {
 "studentID": 159,
-"name": tgntfshdwi,
+"name": smuznvgazi,
 "rollNo":"159",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1593,9 +1752,10 @@
 "pk":160,
 "fields": {
 "studentID": 160,
-"name": lhrjweajzm,
+"name": ndmrduoxwo,
 "rollNo":"160",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1603,8 +1763,9 @@
 "pk":161,
 "fields": {
 "studentID": 161,
-"name": ddnwkzwwtr,
+"name": tmnujhlief,
 "rollNo":"161",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1613,9 +1774,10 @@
 "pk":162,
 "fields": {
 "studentID": 162,
-"name": eyxywzqcqr,
+"name": zmxwetawft,
 "rollNo":"162",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1623,9 +1785,10 @@
 "pk":163,
 "fields": {
 "studentID": 163,
-"name": yhbdyihmdc,
+"name": xxuyzwghrr,
 "rollNo":"163",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1633,8 +1796,9 @@
 "pk":164,
 "fields": {
 "studentID": 164,
-"name": ytnxkglwcl,
+"name": ivlvuoqemy,
 "rollNo":"164",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1643,9 +1807,10 @@
 "pk":165,
 "fields": {
 "studentID": 165,
-"name": renptmsohp,
+"name": qhdpdqysdr,
 "rollNo":"165",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1653,8 +1818,9 @@
 "pk":166,
 "fields": {
 "studentID": 166,
-"name": hivsqqherd,
+"name": ycszclzvja,
 "rollNo":"166",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1663,9 +1829,10 @@
 "pk":167,
 "fields": {
 "studentID": 167,
-"name": klccdbgciv,
+"name": yphjoogben,
 "rollNo":"167",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1673,8 +1840,9 @@
 "pk":168,
 "fields": {
 "studentID": 168,
-"name": oeeprvzpkc,
+"name": fbpwnrktlw,
 "rollNo":"168",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -1683,9 +1851,10 @@
 "pk":169,
 "fields": {
 "studentID": 169,
-"name": pjxpxwcuxp,
+"name": sdhyxuuxyb,
 "rollNo":"169",
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1693,8 +1862,9 @@
 "pk":170,
 "fields": {
 "studentID": 170,
-"name": nrhonexxce,
+"name": dvalnnhdvo,
 "rollNo":"170",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1703,8 +1873,9 @@
 "pk":171,
 "fields": {
 "studentID": 171,
-"name": ticdeakidj,
+"name": ldoiyigzvh,
 "rollNo":"171",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1713,8 +1884,9 @@
 "pk":172,
 "fields": {
 "studentID": 172,
-"name": zmsbqxohdr,
+"name": wlmvphbmzv,
 "rollNo":"172",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1723,9 +1895,10 @@
 "pk":173,
 "fields": {
 "studentID": 173,
-"name": wcgqkslcfu,
+"name": dpdnxrpaje,
 "rollNo":"173",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1733,8 +1906,9 @@
 "pk":174,
 "fields": {
 "studentID": 174,
-"name": euaztlczsk,
+"name": chlosgzqgx,
 "rollNo":"174",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1743,8 +1917,9 @@
 "pk":175,
 "fields": {
 "studentID": 175,
-"name": tujgattsbi,
+"name": jmnbrgmqsq,
 "rollNo":"175",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1753,8 +1928,9 @@
 "pk":176,
 "fields": {
 "studentID": 176,
-"name": xltiikgurj,
+"name": khayezndcs,
 "rollNo":"176",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1763,9 +1939,10 @@
 "pk":177,
 "fields": {
 "studentID": 177,
-"name": fubaagdbdf,
+"name": zvjczhocsb,
 "rollNo":"177",
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1773,9 +1950,10 @@
 "pk":178,
 "fields": {
 "studentID": 178,
-"name": twzwpbygzl,
+"name": dghbewnnhd,
 "rollNo":"178",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1783,8 +1961,9 @@
 "pk":179,
 "fields": {
 "studentID": 179,
-"name": wewlxlftho,
+"name": nxloqlorxw,
 "rollNo":"179",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1793,8 +1972,9 @@
 "pk":180,
 "fields": {
 "studentID": 180,
-"name": isxqcmhcdx,
+"name": ccfbvllfro,
 "rollNo":"180",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -1803,8 +1983,9 @@
 "pk":181,
 "fields": {
 "studentID": 181,
-"name": ptaznsbhcd,
+"name": dgovimmtjc,
 "rollNo":"181",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
@@ -1813,8 +1994,9 @@
 "pk":182,
 "fields": {
 "studentID": 182,
-"name": pvdyhwamnd,
+"name": cxzophnxoo,
 "rollNo":"182",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1823,9 +2005,10 @@
 "pk":183,
 "fields": {
 "studentID": 183,
-"name": hbptunypwj,
+"name": uirwsyfcnl,
 "rollNo":"183",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1833,9 +2016,10 @@
 "pk":184,
 "fields": {
 "studentID": 184,
-"name": mvctvlqolv,
+"name": japvevfbgy,
 "rollNo":"184",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1843,8 +2027,9 @@
 "pk":185,
 "fields": {
 "studentID": 185,
-"name": yqyciosaxn,
+"name": bgrlwukofc,
 "rollNo":"185",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1853,8 +2038,9 @@
 "pk":186,
 "fields": {
 "studentID": 186,
-"name": rxrzizgulc,
+"name": sednrqvufl,
 "rollNo":"186",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1863,8 +2049,9 @@
 "pk":187,
 "fields": {
 "studentID": 187,
-"name": ofmxpjfhgt,
+"name": tdwttpkqnp,
 "rollNo":"187",
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1873,9 +2060,10 @@
 "pk":188,
 "fields": {
 "studentID": 188,
-"name": ufsxhkwmyu,
+"name": sglfboiiqh,
 "rollNo":"188",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1883,9 +2071,10 @@
 "pk":189,
 "fields": {
 "studentID": 189,
-"name": qifugxndpv,
+"name": cphhmtvkvy,
 "rollNo":"189",
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1893,9 +2082,10 @@
 "pk":190,
 "fields": {
 "studentID": 190,
-"name": whocdhkvrg,
+"name": hlyzbvqqal,
 "rollNo":"190",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1903,8 +2093,9 @@
 "pk":191,
 "fields": {
 "studentID": 191,
-"name": wpdlbsnbyb,
+"name": orzduhucdq,
 "rollNo":"191",
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
@@ -1913,9 +2104,10 @@
 "pk":192,
 "fields": {
 "studentID": 192,
-"name": yjtfbqoggc,
+"name": yvcrijlajr,
 "rollNo":"192",
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1923,8 +2115,9 @@
 "pk":193,
 "fields": {
 "studentID": 193,
-"name": qzvuytzuje,
+"name": yvlowitghu,
 "rollNo":"193",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1933,8 +2126,9 @@
 "pk":194,
 "fields": {
 "studentID": 194,
-"name": zbdwwhongh,
+"name": ahjnqgqgpf,
 "rollNo":"194",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1943,8 +2137,9 @@
 "pk":195,
 "fields": {
 "studentID": 195,
-"name": ocsotxzvid,
+"name": oeryctcwvd,
 "rollNo":"195",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
@@ -1953,9 +2148,10 @@
 "pk":196,
 "fields": {
 "studentID": 196,
-"name": mkruyvcmwa,
+"name": xfohccgfys,
 "rollNo":"196",
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
@@ -1963,9 +2159,10 @@
 "pk":197,
 "fields": {
 "studentID": 197,
-"name": yhrglivpso,
+"name": ycjtvrnago,
 "rollNo":"197",
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
@@ -1973,8 +2170,9 @@
 "pk":198,
 "fields": {
 "studentID": 198,
-"name": xyfrcehvtw,
+"name": bczgfzxdzg,
 "rollNo":"198",
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
@@ -1983,8 +2181,9 @@
 "pk":199,
 "fields": {
 "studentID": 199,
-"name": swgdwoucuy,
+"name": dtugbdrrit,
 "rollNo":"199",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }

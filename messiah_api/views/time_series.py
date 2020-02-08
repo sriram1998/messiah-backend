@@ -2,13 +2,13 @@ def timeseries(data):
     from statsmodels.tsa.holtwinters import ExponentialSmoothing
     from random import random
     import matplotlib.pyplot as plt
-    # contrived dataset
-     #[x + random() for x in range(1, 100)]
-    # fit model
-    model = ExponentialSmoothing(data)
-    model_fit = model.fit()
-    # make prediction
-    yhat = model_fit.predict(len(data), len(data)+10)
+    alpha = 0.5
+    beta = 0.5
+    gamma = 0.5
+    fit1 = ExponentialSmoothing(data, seasonal_periods=4, trend='add', seasonal='add').fit(smoothing_level=alpha, smoothing_slope=beta,
+smoothing_seasonal=gamma)
+    yhat1 = fit1.predict(len(data), len(data)+10)
     print(yhat)
     return yhat
+
     

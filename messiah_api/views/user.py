@@ -49,11 +49,14 @@ class allMenuView(View):
         messid = json.loads(request.body).get('messID')
         day=json.loads(request.body).get('day')
         mealType=json.loads(request.body).get('mealType')
+        print(messid)
+        print(day)
+        print(mealType)
         try: 
             menu = list(Menu.objects.filter(messID = messid,day=day,mealType=mealType).values_list('nameOfFood'))
             m=''
-            print(len(menu))
-            print(menu[1])
+            print(len(messid))
+            
             for i in range(len(menu)):
                 menu[i]=list(menu[i])
             for i in range(len(menu)):

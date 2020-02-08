@@ -45,7 +45,24 @@ class MenuView(View):
 
         
 
-        
-        
-        
+class allMenuView(View):
+    def post(self, request):
+
+        messid = request.POST.get('messid')
+        day=request.POST.get('day')
+        mealType=request.POST.get('mealtype')
+        try: 
+            menu = list(Menu.objects.filter(messID = messid,day=day,mealType=mealType).values_list('nameOfFood'))
+            m=''
+            for i in range(len(menu)):
+                menu[i]=list(menu[i])
+            for i in range(len(menu)):
+                m+=menu[i][0]+','+'\n'
+            print(m)
+
+            return HttpResponse(m, content_type='text/plain')
+
+        except:        
+            return HttpResponse("invalid", content_type='text/plain')
+
        

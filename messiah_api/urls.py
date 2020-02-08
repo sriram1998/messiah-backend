@@ -6,6 +6,10 @@ from django.views.generic import RedirectView
 from .views import user,caterer
 urlpatterns = [
     url('user/login', user.LoginFormView.as_view()),
+<<<<<<< HEAD
     url('caterer/login', caterer.LoginFormView.as_view()),
     url('user/menu', user.MenuView.as_view()),
+=======
+    url('user/allMenu', user.allMenuView.as_view())
+>>>>>>> Allmenu done
 ]

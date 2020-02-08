@@ -26,10 +26,11 @@ class Menu(models.Model):
 
 
 class foodStats(models.Model):
-    foodID = models.AutoField(primary_key=True, auto_created=True)
+    #foodID = models.AutoField(primary_key=True, auto_created=True)
     preparedQ = models.IntegerField()
     consumedQ = models.IntegerField()
     leftoverQ = models.IntegerField()
+    date = models.CharField(max_length=25)
     menuID = models.ForeignKey(Menu, on_delete=models.CASCADE)
 
 
@@ -43,5 +44,5 @@ class Visited(models.Model):
 class Reviews(models.Model):
     messID = models.ForeignKey(Messes, on_delete=models.CASCADE)
     review = models.CharField(max_length=100)
-
+    
 

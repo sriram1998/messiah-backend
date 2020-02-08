@@ -79,8 +79,6 @@ class review(View):
             return HttpResponse("data entered", content_type='text/plain')
         except Exception as e:
             return HttpResponse(e, content_type='text/plain')
+     
 
 
-
-
-       

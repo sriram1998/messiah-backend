@@ -12,10 +12,9 @@ from django.http import HttpResponse
 import datetime
 from django.http import HttpResponse
 from ..models import Student, Visited, Messes
-from ..models import Messes
-from ..models import Visited
 
 
+from ..models import Messes, Menu, foodStats, Reviews
 
 from .time_series import timeseries 
 class HttpResponseNoContent(HttpResponse):
@@ -28,6 +27,8 @@ class LoginFormView(View):
         
         try:
             user = Messes.objects.get(messName = mess, password = password)
+            print(user)
+
 
             if user is not None:
                 data = {'messID' : user.messID}
@@ -89,9 +90,35 @@ class getStudentData(View):
         print(students_total)
         
         return HttpResponse(timeseries(students_total), content_type='application/json')
+   
 
+class foodConsumed(View):
+    def post(self, request):
 
+        date = json.loads(request.body).get("date")
+        foodItem = json.loads(request.body).get("food")
+        foodProd = json.loads(request.body).get("foodProd")
+        foodLeft = json.loads(request.body).get("foodLeft")
+        foodConsumed = int(foodProd) - int(foodLeft)
+        try:
+            
+            food=Menu.objects.get(nameOfFood=foodItem)
+           
+            foodStats.objects.create(preparedQ = foodProd, consumedQ = foodConsumed, leftoverQ = foodLeft, date = date, menuID = food)
+          
+            return HttpResponse("data entered", content_type='text/plain')
+        except Exception as e:
+            return HttpResponse(e, content_type='text/plain')        
 
-
-
-
+class viewComplaints(View):
+    def post(self, request):
+        messID = json.loads(request.body).get("messID")
+        reviews_list=[]
+        p=Messes.objects.get(messID=messID)
+        review_arr=Reviews.objects.filter(messID=p)
+        for i in review_arr:
+            reviews_list.append(i)
+            print(i.review)
+        
+        return HttpResponse("done", content_type='text/plain')
+       

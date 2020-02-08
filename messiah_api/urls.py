@@ -11,7 +11,9 @@ urlpatterns = [
     url('user/allMenu', user.allMenuView.as_view()),
     url('caterer/studentAuth', caterer.studentAuthFormView.as_view()),
     url('user/review', user.review.as_view()),
-    url('caterer/getStudentData', caterer.getStudentData.as_view())
+    url('caterer/getStudentData', caterer.getStudentData.as_view()),
+    url('caterer/foodconsumed', caterer.foodConsumed.as_view()),
+    url('caterer/complaints', caterer.viewComplaints.as_view())
 
 ]
 

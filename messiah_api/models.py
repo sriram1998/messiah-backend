@@ -9,7 +9,7 @@ class Messes(models.Model):
 
 
 class Student(models.Model):
-    studentID = models.AutoField(prima  ry_key=True, auto_created=True)
+    studentID = models.AutoField(primary_key=True, auto_created=True)
     name = models.CharField(max_length=30)
     rollNo = models.IntegerField()
     messID = models.ForeignKey(Messes, on_delete=models.CASCADE)

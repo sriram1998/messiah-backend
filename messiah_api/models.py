@@ -35,7 +35,7 @@ class foodStats(models.Model):
 
 class Visited(models.Model):
     messID = models.ForeignKey(Messes, on_delete=models.CASCADE)
-    date = models.DateField()
+    date = models.CharField(max_length = 25)
     mealType = models.CharField(max_length=15)
     studentID = models.ForeignKey(Student, on_delete=models.CASCADE)
 

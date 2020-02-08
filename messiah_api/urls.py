@@ -8,5 +8,7 @@ urlpatterns = [
     url('user/login', user.LoginFormView.as_view()),
     url('caterer/login', caterer.LoginFormView.as_view()),
     url('user/menu', user.MenuView.as_view()),
-    url('user/allMenu', user.allMenuView.as_view())
+    url('user/allMenu', user.allMenuView.as_view()),
+    url('caterer/studentAuth', caterer.studentAuthFormView.as_view())
 ]
+

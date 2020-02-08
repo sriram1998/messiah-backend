@@ -48,12 +48,14 @@ class MenuView(View):
 class allMenuView(View):
     def post(self, request):
 
-        messid = request.POST.get('messid')
+        messid = request.POST.get('messID')
         day=request.POST.get('day')
-        mealType=request.POST.get('mealtype')
+        mealType=request.POST.get('mealType')
         try: 
             menu = list(Menu.objects.filter(messID = messid,day=day,mealType=mealType).values_list('nameOfFood'))
             m=''
+            print(len(menu))
+            print(menu[1])
             for i in range(len(menu)):
                 menu[i]=list(menu[i])
             for i in range(len(menu)):

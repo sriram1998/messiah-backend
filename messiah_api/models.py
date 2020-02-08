@@ -39,3 +39,9 @@ class Visited(models.Model):
     date = models.DateField()
     mealType = models.CharField(max_length=15)
     studentID = models.ForeignKey(Student, on_delete=models.CASCADE)
+
+class Feedback(models.Model):
+    feedbackID = models.AutoField(primary_key=True)
+    messID = models.ForeignKey(Messes, on_delete=models.CASCADE)
+    messName = models.CharField(max_length=25)
+    feedbackText = models.CharField(max_length=1000)

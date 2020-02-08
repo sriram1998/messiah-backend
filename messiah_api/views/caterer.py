@@ -4,6 +4,7 @@ from django.utils.decorators import method_decorator
 from django.views.generic import View
 import logging
 import json
+from django.http import HttpResponse
 
 
 
@@ -12,6 +13,9 @@ import datetime
 from ..models import Student
 from ..models import Messes
 from ..models import Visited
+
+class HttpResponseNoContent(HttpResponse):
+    status_code = 404
 
 class LoginFormView(View):
     def post(self, request):
@@ -29,8 +33,8 @@ class LoginFormView(View):
             
                 
         except:        
-            return HttpResponse("invalid creds", content_type='application/json')
-
+            #return HttpResponse("invalid creds", content_type='application/json')
+            return HttpResponseNoContent()
         
 
         

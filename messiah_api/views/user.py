@@ -5,7 +5,7 @@ from django.views.generic import View
 import logging
 import json
 
-from ..models import Student,Menu
+from ..models import Student,Menu,Reviews,Messes  
 
 class LoginFormView(View):
     def post(self, request):
@@ -20,8 +20,8 @@ class LoginFormView(View):
                 data = {'rollNum' : user.rollNo, 'mess' : user.messID.messName, 'name' : user.name}
                 return HttpResponse(json.dumps(data), content_type='application/json')
             
-        except:        
-            return HttpResponse("invalid creds", content_type='application/json')
+        except Exception as e:
+            return HttpResponse(e, content_type='text/plain')
 
 class MenuView(View):
     def post(self, request):
@@ -42,8 +42,6 @@ class MenuView(View):
         except:        
             return HttpResponse("invalid creds", content_type='application/json')
 
-
-        
 
 class allMenuView(View):
     def post(self, request):
@@ -66,5 +64,20 @@ class allMenuView(View):
 
         except:        
             return HttpResponse("invalid", content_type='application/json')
+
+class review(View):
+    def post(self, request):
+        
+        messid = json.loads(request.body).get('messid')
+        feedbackText = json.loads(request.body).get('feedbackText')
+        mess = Messes.objects.get(messID=messid)
+        try:
+            Reviews.objects.create(messID = mess, review = feedbackText)
+            return HttpResponse("data entered", content_type='text/plain')
+        except Exception as e:
+            return HttpResponse(e, content_type='text/plain')
+
+
+
 
        

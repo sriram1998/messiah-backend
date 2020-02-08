@@ -1,2190 +1,2190 @@
 [{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":1,
 "fields": {
 "studentID": 1,
-"name": jnnurgayff,
+"name": wnyvjepyyn,
 "rollNo":"1",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":2,
 "fields": {
 "studentID": 2,
-"name": jemjfpiybg,
+"name": gogupqhurs,
 "rollNo":"2",
-"messID":2,
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":3,
 "fields": {
 "studentID": 3,
-"name": puxnvduaas,
+"name": xhakkmqamm,
 "rollNo":"3",
-"messID":2,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":4,
 "fields": {
 "studentID": 4,
-"name": frttlfyvpf,
+"name": bbzpjnhfkq,
 "rollNo":"4",
-"messID":2,
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":5,
 "fields": {
 "studentID": 5,
-"name": kweuueqypa,
+"name": sujgfeexps,
 "rollNo":"5",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":6,
 "fields": {
 "studentID": 6,
-"name": tlqljlpwne,
+"name": dbpshiulfr,
 "rollNo":"6",
-"messID":1,
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":7,
 "fields": {
 "studentID": 7,
-"name": fdfnbpahmm,
+"name": pwniqkcxed,
 "rollNo":"7",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":8,
 "fields": {
 "studentID": 8,
-"name": attfkgupqy,
+"name": qixmcmhxgz,
 "rollNo":"8",
-"messID":3,
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":9,
 "fields": {
 "studentID": 9,
-"name": irecuawoxx,
+"name": fvldxbcgdf,
 "rollNo":"9",
-"messID":1,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":10,
 "fields": {
 "studentID": 10,
-"name": lzswdwdeus,
+"name": vlwtdvnhaa,
 "rollNo":"10",
-"messID":3,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":11,
 "fields": {
 "studentID": 11,
-"name": otajrttgnc,
+"name": pdlrlzcsrw,
 "rollNo":"11",
+"messID":1,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":12,
+"fields": {
+"studentID": 12,
+"name": bnugspijyc,
+"rollNo":"12",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":12,
+"model": "messiah_api.Student",
+"pk":13,
 "fields": {
-"studentID": 12,
-"name": bzfikrhppv,
-"rollNo":"12",
+"studentID": 13,
+"name": wvxiaztdik,
+"rollNo":"13",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":14,
+"fields": {
+"studentID": 14,
+"name": eyozjonbkk,
+"rollNo":"14",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":13,
-"fields": {
-"studentID": 13,
-"name": coofanmofj,
-"rollNo":"13",
-"messID":3,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":14,
-"fields": {
-"studentID": 14,
-"name": afbutptbwt,
-"rollNo":"14",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":15,
 "fields": {
 "studentID": 15,
-"name": mrmtkzrpoo,
+"name": blhyvtdrsx,
 "rollNo":"15",
-"messID":2,
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":16,
 "fields": {
 "studentID": 16,
-"name": sggeeewaec,
+"name": khcfzmqlsq,
 "rollNo":"16",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":17,
 "fields": {
 "studentID": 17,
-"name": jlyxegvfbw,
+"name": kawnemvnpx,
 "rollNo":"17",
-"messID":3,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":18,
 "fields": {
 "studentID": 18,
-"name": dccjvhepro,
+"name": uezpxjskmh,
 "rollNo":"18",
 "messID":3,
-"pref":"non veg"
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":19,
 "fields": {
 "studentID": 19,
-"name": arlocpdzkz,
+"name": vvgroerngb,
 "rollNo":"19",
-"messID":2,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":20,
-"fields": {
-"studentID": 20,
-"name": rflonyslop,
-"rollNo":"20",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":21,
+"model": "messiah_api.Student",
+"pk":20,
 "fields": {
-"studentID": 21,
-"name": uofpvpygaq,
-"rollNo":"21",
-"messID":2,
+"studentID": 20,
+"name": fyknhevrka,
+"rollNo":"20",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":21,
+"fields": {
+"studentID": 21,
+"name": bvgrzqlwgg,
+"rollNo":"21",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":22,
 "fields": {
 "studentID": 22,
-"name": ytgbhndzcu,
+"name": cnioopjydd,
 "rollNo":"22",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":23,
 "fields": {
 "studentID": 23,
-"name": ajtdopvawn,
+"name": hqueholfsa,
 "rollNo":"23",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":24,
 "fields": {
 "studentID": 24,
-"name": vagaeardzr,
+"name": zfpzmhirte,
 "rollNo":"24",
-"messID":1,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":25,
 "fields": {
 "studentID": 25,
-"name": hthiptdgkd,
+"name": quhcbvqpna,
 "rollNo":"25",
 "messID":3,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":26,
 "fields": {
 "studentID": 26,
-"name": avvnlnjpka,
+"name": qnourmvevp,
 "rollNo":"26",
-"messID":2,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":27,
 "fields": {
 "studentID": 27,
-"name": mdavwzkxhj,
+"name": livrcsemug,
 "rollNo":"27",
-"messID":3,
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":28,
 "fields": {
 "studentID": 28,
-"name": dqiuhozqww,
+"name": daosmppari,
 "rollNo":"28",
-"messID":1,
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":29,
 "fields": {
 "studentID": 29,
-"name": mxvwzwmxqm,
+"name": xcfyzjarhr,
 "rollNo":"29",
-"messID":3,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":30,
 "fields": {
 "studentID": 30,
-"name": fcyywrxhar,
+"name": jdxgpkxiwr,
 "rollNo":"30",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":31,
+"fields": {
+"studentID": 31,
+"name": vjzlfzlvnd,
+"rollNo":"31",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":31,
-"fields": {
-"studentID": 31,
-"name": cgpjfuklzk,
-"rollNo":"31",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":32,
 "fields": {
 "studentID": 32,
-"name": kywwcytvag,
+"name": iieqqsfhpg,
 "rollNo":"32",
-"messID":1,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":33,
 "fields": {
 "studentID": 33,
-"name": qapqmsbbdi,
+"name": daysmkdxrd,
 "rollNo":"33",
-"messID":1,
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":34,
 "fields": {
 "studentID": 34,
-"name": kirapufumv,
+"name": nnhnfujerx,
 "rollNo":"34",
-"messID":3,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":35,
 "fields": {
 "studentID": 35,
-"name": rewqaioxqv,
+"name": dnzadjluqj,
 "rollNo":"35",
-"messID":1,
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":36,
 "fields": {
 "studentID": 36,
-"name": xxbvejzjrc,
+"name": bnerswdone,
 "rollNo":"36",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":37,
 "fields": {
 "studentID": 37,
-"name": pqewwpzxvl,
+"name": bugjquccia,
 "rollNo":"37",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":38,
-"fields": {
-"studentID": 38,
-"name": xflpdhevkx,
-"rollNo":"38",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":38,
+"fields": {
+"studentID": 38,
+"name": xdhejaoqxl,
+"rollNo":"38",
+"messID":1,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":39,
 "fields": {
 "studentID": 39,
-"name": juoyfchwmu,
+"name": lrewfjglyw,
 "rollNo":"39",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":40,
 "fields": {
 "studentID": 40,
-"name": cuaaudvdye,
+"name": gpbgkwgjrt,
 "rollNo":"40",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":41,
-"fields": {
-"studentID": 41,
-"name": uwhxebqayw,
-"rollNo":"41",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":42,
-"fields": {
-"studentID": 42,
-"name": qkyoscusmq,
-"rollNo":"42",
-"messID":3,
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":41,
+"fields": {
+"studentID": 41,
+"name": plkiavfval,
+"rollNo":"41",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":42,
+"fields": {
+"studentID": 42,
+"name": qafazjkfcp,
+"rollNo":"42",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":43,
 "fields": {
 "studentID": 43,
-"name": fqhpsvsdmx,
+"name": qgxfayucya,
 "rollNo":"43",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":44,
+"fields": {
+"studentID": 44,
+"name": yyyhwlcnic,
+"rollNo":"44",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":44,
+"model": "messiah_api.Student",
+"pk":45,
 "fields": {
-"studentID": 44,
-"name": vlxxylzyts,
-"rollNo":"44",
+"studentID": 45,
+"name": ewnxxcrgyp,
+"rollNo":"45",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":45,
+"model": "messiah_api.Student",
+"pk":46,
 "fields": {
-"studentID": 45,
-"name": lxidzaxwqw,
-"rollNo":"45",
+"studentID": 46,
+"name": swmcgfxiht,
+"rollNo":"46",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":46,
-"fields": {
-"studentID": 46,
-"name": qsvucnguha,
-"rollNo":"46",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":47,
 "fields": {
 "studentID": 47,
-"name": tcmwafvbzl,
+"name": mdignnxxxy,
 "rollNo":"47",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":48,
 "fields": {
 "studentID": 48,
-"name": tjosdeeqxp,
+"name": gdzgqytwnd,
 "rollNo":"48",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":49,
-"fields": {
-"studentID": 49,
-"name": fwzerruijh,
-"rollNo":"49",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":50,
-"fields": {
-"studentID": 50,
-"name": eureyvzpxi,
-"rollNo":"50",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":49,
+"fields": {
+"studentID": 49,
+"name": poqqgyozwo,
+"rollNo":"49",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":50,
+"fields": {
+"studentID": 50,
+"name": xlopfvjwsb,
+"rollNo":"50",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":51,
 "fields": {
 "studentID": 51,
-"name": paelxaqxxy,
+"name": lymxqdcraw,
 "rollNo":"51",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":52,
 "fields": {
 "studentID": 52,
-"name": kqnncpixtn,
+"name": msyyukodxp,
 "rollNo":"52",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":53,
 "fields": {
 "studentID": 53,
-"name": amnpqjkyen,
+"name": auxxeyttyi,
 "rollNo":"53",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":54,
 "fields": {
 "studentID": 54,
-"name": kobenuarus,
+"name": yytiyzxyne,
 "rollNo":"54",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":55,
-"fields": {
-"studentID": 55,
-"name": wgsdoyzdem,
-"rollNo":"55",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":55,
+"fields": {
+"studentID": 55,
+"name": rjdznubssj,
+"rollNo":"55",
+"messID":1,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":56,
 "fields": {
 "studentID": 56,
-"name": vryqoracyo,
+"name": ahvgqjyvlc,
 "rollNo":"56",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":57,
+"fields": {
+"studentID": 57,
+"name": bcrkknrtqm,
+"rollNo":"57",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":58,
+"fields": {
+"studentID": 58,
+"name": jqihvqqnex,
+"rollNo":"58",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":57,
-"fields": {
-"studentID": 57,
-"name": qygxivuhwf,
-"rollNo":"57",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":58,
-"fields": {
-"studentID": 58,
-"name": rzbbjuoftu,
-"rollNo":"58",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":59,
 "fields": {
 "studentID": 59,
-"name": phpzdudhuw,
+"name": xserngooya,
 "rollNo":"59",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":60,
 "fields": {
 "studentID": 60,
-"name": abldakvtxp,
+"name": pokjswjepd,
 "rollNo":"60",
-"messID":1,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":61,
 "fields": {
 "studentID": 61,
-"name": qyicuydpbn,
+"name": oqganhcjkt,
 "rollNo":"61",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":62,
 "fields": {
 "studentID": 62,
-"name": rzvmrpeuxw,
+"name": pupfkxplot,
 "rollNo":"62",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":63,
+"fields": {
+"studentID": 63,
+"name": bypnddqlbh,
+"rollNo":"63",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":63,
-"fields": {
-"studentID": 63,
-"name": gifqjxdjqp,
-"rollNo":"63",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":64,
 "fields": {
 "studentID": 64,
-"name": jfdiukruem,
+"name": upzadhsybq,
 "rollNo":"64",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":65,
-"fields": {
-"studentID": 65,
-"name": ienjlsoczg,
-"rollNo":"65",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":66,
-"fields": {
-"studentID": 66,
-"name": zvidkmyfum,
-"rollNo":"66",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":67,
+"model": "messiah_api.Student",
+"pk":65,
 "fields": {
-"studentID": 67,
-"name": zlatjyjnhr,
-"rollNo":"67",
-"messID":3,
+"studentID": 65,
+"name": pqatemspcm,
+"rollNo":"65",
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":68,
+"model": "messiah_api.Student",
+"pk":66,
 "fields": {
-"studentID": 68,
-"name": gasvzafyap,
-"rollNo":"68",
-"messID":1,
+"studentID": 66,
+"name": nfmpyjlbyv,
+"rollNo":"66",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":67,
+"fields": {
+"studentID": 67,
+"name": updefxqsrs,
+"rollNo":"67",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":68,
+"fields": {
+"studentID": 68,
+"name": phxusfxuvc,
+"rollNo":"68",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":69,
 "fields": {
 "studentID": 69,
-"name": dctmfftnfo,
+"name": zndxefiqra,
 "rollNo":"69",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":70,
 "fields": {
 "studentID": 70,
-"name": urtonxjstk,
+"name": igukckoplg,
 "rollNo":"70",
 "messID":3,
-"pref":"non veg"
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":71,
 "fields": {
 "studentID": 71,
-"name": pglaemdwdl,
+"name": xsrbduvayq,
 "rollNo":"71",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":72,
-"fields": {
-"studentID": 72,
-"name": chvveohmgs,
-"rollNo":"72",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":73,
-"fields": {
-"studentID": 73,
-"name": muqsctipgn,
-"rollNo":"73",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":74,
+"model": "messiah_api.Student",
+"pk":72,
 "fields": {
-"studentID": 74,
-"name": glyenyrfob,
-"rollNo":"74",
-"messID":1,
+"studentID": 72,
+"name": qznpcjmzhs,
+"rollNo":"72",
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":73,
+"fields": {
+"studentID": 73,
+"name": dfacyvaizl,
+"rollNo":"73",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":74,
+"fields": {
+"studentID": 74,
+"name": zxphgnmrtp,
+"rollNo":"74",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":75,
 "fields": {
 "studentID": 75,
-"name": pofzvkigaa,
+"name": gongojsdsl,
 "rollNo":"75",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":76,
 "fields": {
 "studentID": 76,
-"name": bahferheuw,
+"name": qqlgviqwil,
 "rollNo":"76",
-"messID":3,
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":77,
 "fields": {
 "studentID": 77,
-"name": wjwpovylyb,
+"name": yolpffupix,
 "rollNo":"77",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":78,
 "fields": {
 "studentID": 78,
-"name": nztemrdfmg,
+"name": jsyotcffsp,
 "rollNo":"78",
-"messID":1,
+"messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":79,
 "fields": {
 "studentID": 79,
-"name": zhydomywgd,
+"name": kuqxsmyxlj,
 "rollNo":"79",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":80,
 "fields": {
 "studentID": 80,
-"name": dlzyppwwka,
+"name": hajdwwaotq,
 "rollNo":"80",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":81,
 "fields": {
 "studentID": 81,
-"name": awjkkhowkq,
+"name": lwxsywpkhj,
 "rollNo":"81",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":82,
-"fields": {
-"studentID": 82,
-"name": yhqphahglv,
-"rollNo":"82",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":83,
+"model": "messiah_api.Student",
+"pk":82,
 "fields": {
-"studentID": 83,
-"name": mwoihiuylv,
-"rollNo":"83",
+"studentID": 82,
+"name": uzuzwrjbrz,
+"rollNo":"82",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":84,
+"model": "messiah_api.Student",
+"pk":83,
 "fields": {
-"studentID": 84,
-"name": ifaafcsnrg,
-"rollNo":"84",
+"studentID": 83,
+"name": hfumjzezpg,
+"rollNo":"83",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":84,
+"fields": {
+"studentID": 84,
+"name": mxielocfpc,
+"rollNo":"84",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":85,
 "fields": {
 "studentID": 85,
-"name": txtqvkdhrj,
+"name": sitfjodcnb,
 "rollNo":"85",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":86,
 "fields": {
 "studentID": 86,
-"name": hsyvahryww,
+"name": mqylysrdbq,
 "rollNo":"86",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":87,
 "fields": {
 "studentID": 87,
-"name": yckgpbtaue,
+"name": rupfvfwwhf,
 "rollNo":"87",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":88,
 "fields": {
 "studentID": 88,
-"name": bhdxwmkwbm,
+"name": xggnntgquq,
 "rollNo":"88",
-"messID":1,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":89,
 "fields": {
 "studentID": 89,
-"name": yyudtutaie,
+"name": knvyjnbhog,
 "rollNo":"89",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":90,
 "fields": {
 "studentID": 90,
-"name": jxcdhytjmm,
+"name": jwclkilugq,
 "rollNo":"90",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":91,
+"fields": {
+"studentID": 91,
+"name": xmkghmctvd,
+"rollNo":"91",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":92,
+"fields": {
+"studentID": 92,
+"name": sthnntwrft,
+"rollNo":"92",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":93,
+"fields": {
+"studentID": 93,
+"name": mgeqbzmmum,
+"rollNo":"93",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":91,
+"model": "messiah_api.Student",
+"pk":94,
 "fields": {
-"studentID": 91,
-"name": yvcetnbagl,
-"rollNo":"91",
+"studentID": 94,
+"name": jvszzsfplb,
+"rollNo":"94",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":95,
+"fields": {
+"studentID": 95,
+"name": izioyosgrp,
+"rollNo":"95",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":92,
-"fields": {
-"studentID": 92,
-"name": lpjzxduvxs,
-"rollNo":"92",
-"messID":3,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":93,
-"fields": {
-"studentID": 93,
-"name": dosnuymscw,
-"rollNo":"93",
-"messID":2,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":94,
-"fields": {
-"studentID": 94,
-"name": imfycwyauv,
-"rollNo":"94",
-"messID":3,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":95,
-"fields": {
-"studentID": 95,
-"name": lfzmspzeju,
-"rollNo":"95",
-"messID":2,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":96,
 "fields": {
 "studentID": 96,
-"name": blnxooczlk,
+"name": ijexvhagwi,
 "rollNo":"96",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":97,
-"fields": {
-"studentID": 97,
-"name": pupsofpvpe,
-"rollNo":"97",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":98,
+"model": "messiah_api.Student",
+"pk":97,
 "fields": {
-"studentID": 98,
-"name": kjeswxasfx,
-"rollNo":"98",
-"messID":2,
+"studentID": 97,
+"name": xjdaxrbtyv,
+"rollNo":"97",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":98,
+"fields": {
+"studentID": 98,
+"name": xouvbadhzf,
+"rollNo":"98",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":99,
 "fields": {
 "studentID": 99,
-"name": ryizfganel,
+"name": dydyikhkyv,
 "rollNo":"99",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":100,
 "fields": {
 "studentID": 100,
-"name": wpjciygeae,
+"name": ryyqnvqadi,
 "rollNo":"100",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":101,
-"fields": {
-"studentID": 101,
-"name": pryoquuhqe,
-"rollNo":"101",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":102,
-"fields": {
-"studentID": 102,
-"name": bkmugtobdv,
-"rollNo":"102",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":101,
+"fields": {
+"studentID": 101,
+"name": fjbclhxxiy,
+"rollNo":"101",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":102,
+"fields": {
+"studentID": 102,
+"name": fmwjvpfscb,
+"rollNo":"102",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":103,
 "fields": {
 "studentID": 103,
-"name": gtrsfrubep,
+"name": ptcaeatiiq,
 "rollNo":"103",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":104,
 "fields": {
 "studentID": 104,
-"name": gbokdmaqpt,
+"name": prolexqeyi,
 "rollNo":"104",
-"messID":2,
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":105,
 "fields": {
 "studentID": 105,
-"name": noizvrsljw,
+"name": eedngnduzn,
 "rollNo":"105",
+"messID":1,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":106,
+"fields": {
+"studentID": 106,
+"name": pctryyaowv,
+"rollNo":"106",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":107,
+"fields": {
+"studentID": 107,
+"name": lafimkamrj,
+"rollNo":"107",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":106,
-"fields": {
-"studentID": 106,
-"name": eteietkybw,
-"rollNo":"106",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":107,
-"fields": {
-"studentID": 107,
-"name": vpghlioddb,
-"rollNo":"107",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":108,
 "fields": {
 "studentID": 108,
-"name": yodlhcmnat,
+"name": dsegixuxww,
 "rollNo":"108",
 "messID":2,
-"pref":"non veg"
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":109,
 "fields": {
 "studentID": 109,
-"name": jrkyykytnp,
+"name": ebgqzpxcol,
 "rollNo":"109",
-"messID":1,
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":110,
 "fields": {
 "studentID": 110,
-"name": ouuaxvlicm,
+"name": bzvjuxdalw,
 "rollNo":"110",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":111,
 "fields": {
 "studentID": 111,
-"name": dlwmiwxvml,
+"name": jhafmebepx,
 "rollNo":"111",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":112,
+"fields": {
+"studentID": 112,
+"name": deadsuxsnd,
+"rollNo":"112",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":112,
-"fields": {
-"studentID": 112,
-"name": welegiirah,
-"rollNo":"112",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":113,
 "fields": {
 "studentID": 113,
-"name": cbxrdlmugy,
+"name": wfsmfnefjk,
 "rollNo":"113",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":114,
 "fields": {
 "studentID": 114,
-"name": pfjtzntjfj,
+"name": txysmzqevz,
 "rollNo":"114",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":115,
 "fields": {
 "studentID": 115,
-"name": eiqijeicxx,
+"name": hqgxwgiahl,
 "rollNo":"115",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":116,
-"fields": {
-"studentID": 116,
-"name": bhsghnnagn,
-"rollNo":"116",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":117,
-"fields": {
-"studentID": 117,
-"name": kdbmgcjkvx,
-"rollNo":"117",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":118,
+"model": "messiah_api.Student",
+"pk":116,
 "fields": {
-"studentID": 118,
-"name": synzelxccg,
-"rollNo":"118",
+"studentID": 116,
+"name": rptxzioflv,
+"rollNo":"116",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":117,
+"fields": {
+"studentID": 117,
+"name": bqbkfxvuer,
+"rollNo":"117",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":118,
+"fields": {
+"studentID": 118,
+"name": bsswqohsxl,
+"rollNo":"118",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":119,
 "fields": {
 "studentID": 119,
-"name": zxgigkqiag,
+"name": rsmkfwzqzo,
 "rollNo":"119",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":120,
 "fields": {
 "studentID": 120,
-"name": sprwdjyrcj,
+"name": kyejqgdjih,
 "rollNo":"120",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":121,
+"fields": {
+"studentID": 121,
+"name": zmtrijwjbv,
+"rollNo":"121",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":122,
+"fields": {
+"studentID": 122,
+"name": wmdevfoean,
+"rollNo":"122",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":121,
+"model": "messiah_api.Student",
+"pk":123,
 "fields": {
-"studentID": 121,
-"name": jgfhckaglw,
-"rollNo":"121",
+"studentID": 123,
+"name": rlklpcrgru,
+"rollNo":"123",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":122,
-"fields": {
-"studentID": 122,
-"name": grmbygvohw,
-"rollNo":"122",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":123,
-"fields": {
-"studentID": 123,
-"name": bjlproiccc,
-"rollNo":"123",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":124,
 "fields": {
 "studentID": 124,
-"name": mlzjipakxn,
+"name": jnbxalbliq,
 "rollNo":"124",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":125,
-"fields": {
-"studentID": 125,
-"name": fqwuxmmcsl,
-"rollNo":"125",
-"messID":1,
+"messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":125,
+"fields": {
+"studentID": 125,
+"name": qjqjbpejnt,
+"rollNo":"125",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":126,
 "fields": {
 "studentID": 126,
-"name": hvmtlevsrw,
+"name": gknnhsqtei,
 "rollNo":"126",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":127,
 "fields": {
 "studentID": 127,
-"name": dehacqqkrn,
+"name": tytpcdqxbr,
 "rollNo":"127",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":128,
 "fields": {
 "studentID": 128,
-"name": byyjxtsrar,
+"name": vuqefkmrdk,
 "rollNo":"128",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":129,
 "fields": {
 "studentID": 129,
-"name": lmfaqwmjqt,
+"name": esihqylvzh,
 "rollNo":"129",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":130,
 "fields": {
 "studentID": 130,
-"name": zgwbwnehzj,
+"name": zupwsxjjfk,
 "rollNo":"130",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":131,
 "fields": {
 "studentID": 131,
-"name": gzlzexqqkg,
+"name": garkcnnfbe,
 "rollNo":"131",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":132,
 "fields": {
 "studentID": 132,
-"name": pepwlubmzv,
+"name": avcosrbyif,
 "rollNo":"132",
-"messID":3,
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":133,
 "fields": {
 "studentID": 133,
-"name": sbfkofcsht,
+"name": ihcymgghnm,
 "rollNo":"133",
-"messID":2,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":134,
-"fields": {
-"studentID": 134,
-"name": rqapktcxye,
-"rollNo":"134",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":135,
-"fields": {
-"studentID": 135,
-"name": guksqnuzad,
-"rollNo":"135",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":136,
-"fields": {
-"studentID": 136,
-"name": fnvemvzjud,
-"rollNo":"136",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":137,
-"fields": {
-"studentID": 137,
-"name": vjuilapipb,
-"rollNo":"137",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":138,
-"fields": {
-"studentID": 138,
-"name": buvedcouhj,
-"rollNo":"138",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":139,
-"fields": {
-"studentID": 139,
-"name": gmeqhxcujo,
-"rollNo":"139",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":140,
-"fields": {
-"studentID": 140,
-"name": hfnljhjdrj,
-"rollNo":"140",
-"messID":2,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":141,
-"fields": {
-"studentID": 141,
-"name": niyyvwtind,
-"rollNo":"141",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":142,
-"fields": {
-"studentID": 142,
-"name": zufhimlqwn,
-"rollNo":"142",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":134,
+"fields": {
+"studentID": 134,
+"name": emjlsyiexx,
+"rollNo":"134",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":135,
+"fields": {
+"studentID": 135,
+"name": kequeocozx,
+"rollNo":"135",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":136,
+"fields": {
+"studentID": 136,
+"name": qcpdwmuypy,
+"rollNo":"136",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":137,
+"fields": {
+"studentID": 137,
+"name": rwpwctajke,
+"rollNo":"137",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":138,
+"fields": {
+"studentID": 138,
+"name": bezztqxtyy,
+"rollNo":"138",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":139,
+"fields": {
+"studentID": 139,
+"name": zhviedgrji,
+"rollNo":"139",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":140,
+"fields": {
+"studentID": 140,
+"name": urxmnqihbf,
+"rollNo":"140",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":141,
+"fields": {
+"studentID": 141,
+"name": ceugbiyeau,
+"rollNo":"141",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":142,
+"fields": {
+"studentID": 142,
+"name": fwcwqegycr,
+"rollNo":"142",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":143,
 "fields": {
 "studentID": 143,
-"name": xbqaaeohxx,
+"name": ijaazxdlwu,
 "rollNo":"143",
-"messID":2,
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":144,
 "fields": {
 "studentID": 144,
-"name": cnnewxzzgy,
+"name": ffdrutjwnx,
 "rollNo":"144",
-"messID":1,
-"pref":"non veg"
+"messID":3,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":145,
 "fields": {
 "studentID": 145,
-"name": yzzsrgcohs,
+"name": iznthgisiu,
 "rollNo":"145",
-"messID":1,
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":146,
 "fields": {
 "studentID": 146,
-"name": mghsjpcggu,
+"name": fnzhcmgvnq,
 "rollNo":"146",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":147,
 "fields": {
 "studentID": 147,
-"name": shztultvvt,
+"name": ifgehrhemu,
 "rollNo":"147",
-"messID":2,
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":148,
 "fields": {
 "studentID": 148,
-"name": gzbzizmhyj,
+"name": tqpxikdirr,
 "rollNo":"148",
-"messID":2,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":149,
 "fields": {
 "studentID": 149,
-"name": lwjvdhktsc,
+"name": wudkjbvgof,
 "rollNo":"149",
-"messID":3,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":150,
 "fields": {
 "studentID": 150,
-"name": bvcrvubmuv,
+"name": vvqebqbifu,
 "rollNo":"150",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":151,
 "fields": {
 "studentID": 151,
-"name": whljtgsqro,
+"name": zaflrxdsrx,
 "rollNo":"151",
-"messID":2,
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":152,
 "fields": {
 "studentID": 152,
-"name": ahqlrjozgy,
+"name": hmbxrdjjco,
 "rollNo":"152",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":153,
+"fields": {
+"studentID": 153,
+"name": psgoafxuki,
+"rollNo":"153",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":153,
-"fields": {
-"studentID": 153,
-"name": joyszdwvrx,
-"rollNo":"153",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":154,
 "fields": {
 "studentID": 154,
-"name": luonuwqjkp,
+"name": rwjctiqjkf,
 "rollNo":"154",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":155,
-"fields": {
-"studentID": 155,
-"name": fgxubaedxl,
-"rollNo":"155",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":155,
+"fields": {
+"studentID": 155,
+"name": fixwdjqjfi,
+"rollNo":"155",
+"messID":1,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":156,
 "fields": {
 "studentID": 156,
-"name": hpmwctlsxw,
+"name": uiztbxzkua,
 "rollNo":"156",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":157,
 "fields": {
 "studentID": 157,
-"name": vnxapwvprg,
+"name": tcvjzvoijx,
 "rollNo":"157",
-"messID":2,
+"messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":158,
 "fields": {
 "studentID": 158,
-"name": nggfymwewf,
+"name": iiyieckvgh,
 "rollNo":"158",
-"messID":3,
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":159,
 "fields": {
 "studentID": 159,
-"name": smuznvgazi,
+"name": fqruyjnsvk,
 "rollNo":"159",
-"messID":1,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":160,
 "fields": {
 "studentID": 160,
-"name": ndmrduoxwo,
+"name": ybahxxqmrc,
 "rollNo":"160",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":161,
 "fields": {
 "studentID": 161,
-"name": tmnujhlief,
+"name": gigegvzlha,
 "rollNo":"161",
-"messID":2,
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":162,
 "fields": {
 "studentID": 162,
-"name": zmxwetawft,
+"name": zbbapifewr,
 "rollNo":"162",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":163,
+"fields": {
+"studentID": 163,
+"name": zallzaixuh,
+"rollNo":"163",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":163,
-"fields": {
-"studentID": 163,
-"name": xxuyzwghrr,
-"rollNo":"163",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":164,
 "fields": {
 "studentID": 164,
-"name": ivlvuoqemy,
+"name": xnmmddtxgt,
 "rollNo":"164",
-"messID":3,
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":165,
 "fields": {
 "studentID": 165,
-"name": qhdpdqysdr,
+"name": uhsorrovds,
 "rollNo":"165",
-"messID":1,
-"pref":"non veg"
+"messID":2,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":166,
 "fields": {
 "studentID": 166,
-"name": ycszclzvja,
+"name": bvicfzblgv,
 "rollNo":"166",
-"messID":3,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":167,
-"fields": {
-"studentID": 167,
-"name": yphjoogben,
-"rollNo":"167",
-"messID":3,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":168,
-"fields": {
-"studentID": 168,
-"name": fbpwnrktlw,
-"rollNo":"168",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":167,
+"fields": {
+"studentID": 167,
+"name": yaieiqrncx,
+"rollNo":"167",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":168,
+"fields": {
+"studentID": 168,
+"name": sdhpicruke,
+"rollNo":"168",
+"messID":2,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":169,
 "fields": {
 "studentID": 169,
-"name": sdhyxuuxyb,
+"name": odzzdjcrxg,
 "rollNo":"169",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":170,
 "fields": {
 "studentID": 170,
-"name": dvalnnhdvo,
+"name": efckovdjbl,
 "rollNo":"170",
 "messID":2,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":171,
 "fields": {
 "studentID": 171,
-"name": ldoiyigzvh,
+"name": yjjpjkcsaz,
 "rollNo":"171",
 "messID":2,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":172,
 "fields": {
 "studentID": 172,
-"name": wlmvphbmzv,
+"name": fpzcdmvtzv,
 "rollNo":"172",
-"messID":2,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":173,
 "fields": {
 "studentID": 173,
-"name": dpdnxrpaje,
+"name": yefgzdfwgb,
 "rollNo":"173",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":174,
 "fields": {
 "studentID": 174,
-"name": chlosgzqgx,
+"name": zwxyfhqcaw,
 "rollNo":"174",
-"messID":2,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":175,
 "fields": {
 "studentID": 175,
-"name": jmnbrgmqsq,
+"name": nqbpyzqxoh,
 "rollNo":"175",
-"messID":3,
-"pref":"veg"
+"messID":2,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":176,
 "fields": {
 "studentID": 176,
-"name": khayezndcs,
+"name": nufcuqubqv,
 "rollNo":"176",
-"messID":3,
-"pref":"veg"
+"messID":1,
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":177,
 "fields": {
 "studentID": 177,
-"name": zvjczhocsb,
+"name": zkgccfjqdt,
 "rollNo":"177",
-"messID":3,
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":178,
 "fields": {
 "studentID": 178,
-"name": dghbewnnhd,
+"name": yuprzezklp,
 "rollNo":"178",
 "messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":179,
+"fields": {
+"studentID": 179,
+"name": ruzjrpbthm,
+"rollNo":"179",
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":179,
+"model": "messiah_api.Student",
+"pk":180,
 "fields": {
-"studentID": 179,
-"name": nxloqlorxw,
-"rollNo":"179",
+"studentID": 180,
+"name": acqcidaiyt,
+"rollNo":"180",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":181,
+"fields": {
+"studentID": 181,
+"name": diifgbelwm,
+"rollNo":"181",
 "messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
-"pk":180,
-"fields": {
-"studentID": 180,
-"name": ccfbvllfro,
-"rollNo":"180",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":181,
-"fields": {
-"studentID": 181,
-"name": dgovimmtjc,
-"rollNo":"181",
-"messID":1,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":182,
 "fields": {
 "studentID": 182,
-"name": cxzophnxoo,
+"name": ikluoolwjz,
 "rollNo":"182",
 "messID":2,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":183,
 "fields": {
 "studentID": 183,
-"name": uirwsyfcnl,
+"name": mdbmgshang,
 "rollNo":"183",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":184,
 "fields": {
 "studentID": 184,
-"name": japvevfbgy,
+"name": ztbrzceocd,
 "rollNo":"184",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":185,
 "fields": {
 "studentID": 185,
-"name": bgrlwukofc,
+"name": cgrdtthqan,
 "rollNo":"185",
-"messID":2,
+"messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":186,
 "fields": {
 "studentID": 186,
-"name": sednrqvufl,
+"name": riawletyom,
 "rollNo":"186",
-"messID":3,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":187,
 "fields": {
 "studentID": 187,
-"name": tdwttpkqnp,
+"name": vjqqgqgbbc,
 "rollNo":"187",
 "messID":3,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":188,
 "fields": {
 "studentID": 188,
-"name": sglfboiiqh,
+"name": lvvbtvtjqf,
 "rollNo":"188",
 "messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":189,
 "fields": {
 "studentID": 189,
-"name": cphhmtvkvy,
+"name": divxtkmtqq,
 "rollNo":"189",
 "messID":1,
-"pref":"veg"
+"pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":190,
 "fields": {
 "studentID": 190,
-"name": hlyzbvqqal,
+"name": bxlyvikhdb,
 "rollNo":"190",
-"messID":3,
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":191,
 "fields": {
 "studentID": 191,
-"name": orzduhucdq,
+"name": ptoqgpftdz,
 "rollNo":"191",
-"messID":3,
+"messID":1,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":192,
 "fields": {
 "studentID": 192,
-"name": yvcrijlajr,
+"name": iciycdkbbi,
 "rollNo":"192",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":193,
-"fields": {
-"studentID": 193,
-"name": yvlowitghu,
-"rollNo":"193",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":194,
-"fields": {
-"studentID": 194,
-"name": ahjnqgqgpf,
-"rollNo":"194",
-"messID":1,
-"pref":"non veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":195,
-"fields": {
-"studentID": 195,
-"name": oeryctcwvd,
-"rollNo":"195",
-"messID":2,
-"pref":"veg"
-"password":"pass"
-}
-},{
-"model": "messiah_api.foodStats",
-"pk":196,
-"fields": {
-"studentID": 196,
-"name": xfohccgfys,
-"rollNo":"196",
 "messID":3,
 "pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
+"pk":193,
+"fields": {
+"studentID": 193,
+"name": rkwxktbtia,
+"rollNo":"193",
+"messID":1,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":194,
+"fields": {
+"studentID": 194,
+"name": jlcjoqnisk,
+"rollNo":"194",
+"messID":3,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":195,
+"fields": {
+"studentID": 195,
+"name": qehwtetpcl,
+"rollNo":"195",
+"messID":3,
+"pref":"veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
+"pk":196,
+"fields": {
+"studentID": 196,
+"name": qnngpaybyt,
+"rollNo":"196",
+"messID":2,
+"pref":"non veg"
+"password":"pass"
+}
+},{
+"model": "messiah_api.Student",
 "pk":197,
 "fields": {
 "studentID": 197,
-"name": ycjtvrnago,
+"name": bbnedkxbxs,
 "rollNo":"197",
-"messID":2,
-"pref":"non veg"
+"messID":1,
+"pref":"veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":198,
 "fields": {
 "studentID": 198,
-"name": bczgfzxdzg,
+"name": psmasdphxp,
 "rollNo":"198",
-"messID":2,
+"messID":1,
 "pref":"non veg"
 "password":"pass"
 }
 },{
-"model": "messiah_api.foodStats",
+"model": "messiah_api.Student",
 "pk":199,
 "fields": {
 "studentID": 199,
-"name": dtugbdrrit,
+"name": uvanaxgcrr,
 "rollNo":"199",
-"messID":1,
-"pref":"veg"
+"messID":3,
+"pref":"non veg"
 "password":"pass"
 }
 }]

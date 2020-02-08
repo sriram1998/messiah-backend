@@ -3,8 +3,9 @@ from django.http import HttpResponse
 from django.utils.decorators import method_decorator
 from django.views.generic import View
 import logging
+import json
 
-from ..models import User 
+from ..models import Student
 
 class LoginFormView(View):
     def post(self, request):
@@ -12,17 +13,24 @@ class LoginFormView(View):
         roll = request.POST.get('roll')
         password = request.POST.get('password')
         
-        user = User.objects.get(roll_number = roll, password = password)
+        try:
+            user = Student.objects.get(rollNo = roll, password = password)
+        
         
 
 
+            if user is not None:
+                data = {'rollNum' : user.rollNo, 'mess' : user.messID.messName, 'name' : user.name}
+                return HttpResponse(json.dumps(data), content_type='text/plain')
 
-        if user is not None:
-            return HttpResponse(user.roll_number, content_type='text/plain')
-
-        else:
+            
+                
+        except:        
             return HttpResponse("invalid creds", content_type='text/plain')
 
         
+
         
-        #return HttpResponse(user.roll_number, content_type='text/plain')
+        
+        
+       

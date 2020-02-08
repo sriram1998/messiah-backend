@@ -10,25 +10,25 @@ from ..models import Student,Menu
 class LoginFormView(View):
     def post(self, request):
        
-        roll = request.POST.get('roll')
-        password = request.POST.get('password')
+        roll = json.loads(request.body).get('roll')
+        password = json.loads(request.body).get('password')
         
         try:
             user = Student.objects.get(rollNo = roll, password = password)
         
             if user is not None:
                 data = {'rollNum' : user.rollNo, 'mess' : user.messID.messName, 'name' : user.name}
-                return HttpResponse(json.dumps(data), content_type='text/plain')
+                return HttpResponse(json.dumps(data), content_type='application/json')
             
         except:        
-            return HttpResponse("invalid creds", content_type='text/plain')
+            return HttpResponse("invalid creds", content_type='application/json')
 
 class MenuView(View):
     def post(self, request):
        
-        messID = request.POST.get('messID')
-        day = request.POST.get('day')
-        meal = request.POST.get('mealType')
+        messID = json.loads(request.body).get('messID')
+        day = json.loads(request.body).get('day')
+        meal = json.loads(request.body).get('mealType')
         try:
             menu = Menu.objects.filter(messID=messID,day=day,mealType=meal)
 
@@ -37,10 +37,10 @@ class MenuView(View):
                 for i in range(1,len(menu)):
                     response=response+","+str(menu[i].nameOfFood)
                 data = {'menu' : response}
-                return HttpResponse(json.dumps(data), content_type='text/plain')
+                return HttpResponse(json.dumps(data), content_type='application/json')
 
         except:        
-            return HttpResponse("invalid creds", content_type='text/plain')
+            return HttpResponse("invalid creds", content_type='application/json')
 
 
         
@@ -48,9 +48,9 @@ class MenuView(View):
 class allMenuView(View):
     def post(self, request):
 
-        messid = request.POST.get('messID')
-        day=request.POST.get('day')
-        mealType=request.POST.get('mealType')
+        messid = json.loads(request.body).get('messID')
+        day=json.loads(request.body).get('day')
+        mealType=json.loads(request.body).get('mealType')
         try: 
             menu = list(Menu.objects.filter(messID = messid,day=day,mealType=mealType).values_list('nameOfFood'))
             m=''
@@ -62,9 +62,9 @@ class allMenuView(View):
                 m+=menu[i][0]+','+'\n'
             print(m)
 
-            return HttpResponse(m, content_type='text/plain')
+            return HttpResponse(m, content_type='application/json')
 
         except:        
-            return HttpResponse("invalid", content_type='text/plain')
+            return HttpResponse("invalid", content_type='application/json')
 
        

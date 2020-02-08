@@ -16,20 +16,20 @@ from ..models import Visited
 class LoginFormView(View):
     def post(self, request):
        
-        mess = request.POST.get('messName')
-        password = request.POST.get('password')
+        mess = json.loads(request.body).get('messName')
+        password = json.loads(request.body).get('password')
         
         try:
             user = Messes.objects.get(messName = mess, password = password)
 
             if user is not None:
                 data = {'messName' : user.messName}
-                return HttpResponse(json.dumps(data), content_type='text/plain')
+                return HttpResponse(json.dumps(data), content_type='application/json')
 
             
                 
         except:        
-            return HttpResponse("invalid creds", content_type='text/plain')
+            return HttpResponse("invalid creds", content_type='application/json')
 
         
 
@@ -41,10 +41,10 @@ class LoginFormView(View):
 
 class studentAuthFormView(View):
     def post(self, request):
-        messID = request.POST.get('messID') 
-        date = request.POST.get('date')
-        mealType = request.POST.get('mealType')
-        studentID = request.POST.get('studentId')
+        messID = json.loads(request.body).get('messID') 
+        date = json.loads(request.body).get('date')
+        mealType = json.loads(request.body).get('mealType')
+        studentID = json.loads(request.body).get('studentId')
         print(messID)
         
         user = Student.objects.get(messID=messID, studentID=studentID)
@@ -55,7 +55,7 @@ class studentAuthFormView(View):
                                                    mealType = mealType, 
                                                    studentID = studentID)
                 
-                return HttpResponse("You have already visited", content_type='text/plain')
+                return HttpResponse("You have already visited", content_type='application/json')
 
             except:
                 mess = Messes.objects.get(messID = messID)
@@ -64,10 +64,10 @@ class studentAuthFormView(View):
                                        date = date, 
                                        mealType = mealType, 
                                        studentID = user)
-                return HttpResponse("verified", content_type='text/plain')
+                return HttpResponse("verified", content_type='application/json')
 
         else:
-            return HttpResponse("You have not registered to this mess", content_type='text/plain')
+            return HttpResponse("You have not registered to this mess", content_type='application/json')
 
 
 

@@ -3,20 +3,23 @@ from django.http import HttpResponse
 from django.utils.decorators import method_decorator
 from django.views.generic import View
 import logging
+from django.db.models import Count
 import json
 from django.http import HttpResponse
 
 
 
 import datetime
-
-from ..models import Student
+from django.http import HttpResponse
+from ..models import Student, Visited, Messes
 from ..models import Messes
 from ..models import Visited
 
-class HttpResponseNoContent(HttpResponse):
-    status_code = 404
 
+
+from .time_series import timeseries 
+class HttpResponseNoContent(HttpResponse):
+    status_code = 404  
 class LoginFormView(View):
     def post(self, request):
        
@@ -27,7 +30,7 @@ class LoginFormView(View):
             user = Messes.objects.get(messName = mess, password = password)
 
             if user is not None:
-                data = {'messName' : user.messName}
+                data = {'messID' : user.messID}
                 return HttpResponse(json.dumps(data), content_type='application/json')
 
             
@@ -35,21 +38,16 @@ class LoginFormView(View):
         except:        
             #return HttpResponse("invalid creds", content_type='application/json')
             return HttpResponseNoContent()
-        
-
-        
-        
-        
-       
-
+    
 
 class studentAuthFormView(View):
     def post(self, request):
         messID = json.loads(request.body).get('messID') 
         date = json.loads(request.body).get('date')
         mealType = json.loads(request.body).get('mealType')
-        studentID = json.loads(request.body).get('studentId')
+        studentID = json.loads(request.body).get('studentID')
         print(messID)
+        print(json.loads(request.body))
         
         user = Student.objects.get(messID=messID, studentID=studentID)
         if user is not None:
@@ -72,6 +70,26 @@ class studentAuthFormView(View):
 
         else:
             return HttpResponse("You have not registered to this mess", content_type='application/json')
+
+
+class getStudentData(View):
+    def post(self, request):
+        mess = json.loads(request.body).get("messID")
+        date = json.loads(request.body).get("date")
+        students_list = []
+        students_total = []
+        studentsPerDate = Visited.objects.filter(date=date).values('mealType').annotate(total=Count('studentID')).order_by('mealType')
+        print(studentsPerDate)
+        
+        for i in studentsPerDate:
+             students_list.append(i)
+             print(i['total'])
+             students_total.append(i['total'])
+        # return HttpResponse(students_total, content_type='application/json')
+        print(students_total)
+        
+        return HttpResponse(timeseries(students_total), content_type='application/json')
+
 
 
 

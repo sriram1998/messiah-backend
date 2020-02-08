@@ -10,6 +10,11 @@ urlpatterns = [
     url('user/menu', user.MenuView.as_view()),
     url('user/allMenu', user.allMenuView.as_view()),
     url('caterer/studentAuth', caterer.studentAuthFormView.as_view()),
+<<<<<<< HEAD
     url('user/review', user.review.as_view()),
+=======
+    url('caterer/getStudentData', caterer.getStudentData.as_view())
+
+>>>>>>> Add getStudentData view and timeseries
 ]
 

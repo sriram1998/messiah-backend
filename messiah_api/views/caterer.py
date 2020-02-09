@@ -9,6 +9,7 @@ from django.http import HttpResponse
 
 
 
+
 import datetime
 from django.http import HttpResponse
 from ..models import Student, Visited, Messes
@@ -76,20 +77,30 @@ class studentAuthFormView(View):
 class getStudentData(View):
     def post(self, request):
         mess = json.loads(request.body).get("messID")
-        date = json.loads(request.body).get("date")
+        mealType1 = 'breakfast'
+        mealType2 = 'lunch'
+        mealType3 = 'dinner'
+        print("hi",mess)
         students_list = []
         students_total = []
-        studentsPerDate = Visited.objects.filter(date=date).values('mealType').annotate(total=Count('studentID')).order_by('mealType')
-        print(studentsPerDate)
-        
-        for i in studentsPerDate:
-             students_list.append(i)
-             print(i['total'])
-             students_total.append(i['total'])
+        studentsPerDate1 = Visited.objects.filter(mealType=mealType1).values('date').annotate(total=Count('studentID')).order_by('date')
+        studentsPerDate2 = Visited.objects.filter(mealType=mealType2).values('date').annotate(total=Count('studentID')).order_by('date')
+        studentsPerDate3 = Visited.objects.filter(mealType=mealType3).values('date').annotate(total=Count('studentID')).order_by('date')
+        print("hey",len(studentsPerDate1))
+        for i in range(0,len(studentsPerDate1)):
+             students_list.append(studentsPerDate1[i])
+             students_list.append(studentsPerDate2[i])
+             students_list.append(studentsPerDate3[i])
+             print(studentsPerDate2[i]['total'])
+             students_total.append(studentsPerDate1[i]['total'])
+             students_total.append(studentsPerDate2[i]['total'])
+             students_total.append(studentsPerDate3[i]['total'])
         # return HttpResponse(students_total, content_type='application/json')
-        print(students_total)
-        
-        return HttpResponse(timeseries(students_total), content_type='application/json')
+        print("works",students_total)
+        resp = list(timeseries(students_total))
+        print(resp)
+        json_stuff = json.dumps({"response" : resp}) 
+        return HttpResponse(json_stuff, content_type='application/json')
    
 
 class foodConsumed(View):
@@ -114,11 +125,15 @@ class viewComplaints(View):
     def post(self, request):
         messID = json.loads(request.body).get("messID")
         reviews_list=[]
+        print(messID)
         p=Messes.objects.get(messID=messID)
         review_arr=Reviews.objects.filter(messID=p)
         for i in review_arr:
-            reviews_list.append(i)
+            reviews_list.append(i.review)
             print(i.review)
-        
-        return HttpResponse("done", content_type='text/plain')
+        resp = list(reviews_list)
+        print(resp)
+        print(reviews_list)
+        json_stuff = json.dumps({"response" : resp})
+        return HttpResponse(json_stuff, content_type='text/plain')
        

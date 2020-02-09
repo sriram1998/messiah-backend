@@ -13,7 +13,8 @@ urlpatterns = [
     url('user/review', user.review.as_view()),
     url('caterer/getStudentData', caterer.getStudentData.as_view()),
     url('caterer/foodconsumed', caterer.foodConsumed.as_view()),
-    url('caterer/complaints', caterer.viewComplaints.as_view())
+    url('caterer/complaints', caterer.viewComplaints.as_view()),
+    url('caterer/getFoodData', caterer.getFoodData.as_view()),
 
 ]
 

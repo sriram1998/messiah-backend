@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from django.utils.decorators import method_decorator
 from django.views.generic import View
 import logging
-from django.db.models import Count
+from django.db.models import Count,Sum
 import json
 from django.http import HttpResponse
 
@@ -17,7 +17,8 @@ from ..models import Student, Visited, Messes
 
 from ..models import Messes, Menu, foodStats, Reviews
 
-from .time_series import timeseries 
+from .time_series import timeseries
+from .food_predict import foodpredict  
 class HttpResponseNoContent(HttpResponse):
     status_code = 404  
 class LoginFormView(View):
@@ -120,6 +121,27 @@ class foodConsumed(View):
             return HttpResponse("data entered", content_type='text/plain')
         except Exception as e:
             return HttpResponse(e, content_type='text/plain')        
+
+class getFoodData(View):
+    def post(self, request):
+        mess = json.loads(request.body).get("messID")
+        mealType1 = 'breakfast'
+        mealType2 = 'lunch'
+        mealType3 = 'dinner'
+        print("hi",mess)
+        food_list = []
+        food_total = []
+        foodPerDate1 = foodStats.objects.filter().values('date').annotate(total=Sum('consumedQ')).order_by('date')
+        print("hey",len(foodPerDate1))
+        for i in range(0,len(foodPerDate1)):
+             food_list.append(foodPerDate1[i])
+             print(foodPerDate1[i]['total'])
+             food_total.append(foodPerDate1[i]['total'])
+        print("works",food_total)
+        resp = list(foodpredict(food_total))
+        print(resp)
+        json_stuff = json.dumps({"response" : resp}) 
+        return HttpResponse(json_stuff, content_type='application/json')
 
 class viewComplaints(View):
     def post(self, request):
